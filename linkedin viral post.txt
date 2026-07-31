@@ -1,0 +1,1242 @@
+Post1
+
+This 30-min workshop by Claude Code will teach you more about vibe-coding than 100 YouTube video guides.
+
+10 quick hands on insights👇
+
+1. Terminal-First Architecture: 
+
+> Claude Code operates as a CLI-based agent rather than a traditional IDE extension. 
+> This allows it to function as a Unix utility that can be integrated into pipelines, such as piping git status output directly into Claude for summarization.
+
+2. CLAUDE .md for Persistent Context: 
+
+> Developers should use a CLAUDE .md file in the project root to store persistent technical context. 
+> This is the ideal place to define build commands, linting preferences, and specific architectural patterns the agent should adhere to across all sessions.
+
+3. Local Data Sovereignty: 
+
+> The tool is designed to keep the primary codebase data local. 
+> It intelligently selects and sends only the necessary context snippets to the model for specific queries, rather than uploading the entire repository.
+
+4. Agentic Tool Use: 
+
+> Claude Code utilizes a suite of built-in tools (Bash, filesystem read/write, web search). 
+> Developers can explicitly direct the agent to use these tools for complex tasks, such as executing recursive grep commands or searching documentation for specific library errors.
+
+5. MCP (Model Context Protocol) Integration: 
+
+> The CLI supports adding MCP servers to extend its reach. 
+> By running claude mcp add, developers can connect the agent to external data sources like Google Drive, Slack, or internal databases to fetch information beyond the local codebase.
+
+6. Multi-Agent Scripting: 
+
+> The SDK allows for the programmatic orchestration of multiple Claude agents. 
+> This enables complex workflows where parallel agents can be tasked with different objectives, such as one agent writing tests while another refactors the implementation.
+
+7. Granular Context Tuning: 
+
+> Use the @ symbol in the terminal to manually reference specific files or directories. 
+> This explicitly adds them to the current context, which is more tokens-efficient and faster than relying on the agent to search the full directory tree.
+
+8. Custom Slash Commands: 
+
+> Teams can define custom slash commands in configuration files to automate repetitive tasks. 
+> This allows for standardized workflows like /fix-lint or /pr-description that can be shared across the development team.
+
+9. Keybinding Optimization: 
+
+> Efficiency is increased through built-in shortcuts like Shift+Tab to instantly accept code suggestions and Double-Esc to navigate through the command history without retyping prompts.
+
+10. Feedback Loop via /vibe: 
+
+> The /vibe command provides a direct channel for meta-feedback. 
+> This allows developers to report on the quality of the agent's logic and tool-use, which helps in refining the model’s performance for specific coding patterns.
+
+==================
+
+
+2:Someone shared a Claude prompt that stops AI hallucinations.
+
+And honestly, everyone should be using this.
+
+Here’s the exact prompt:
+
+“Your highest priority is accuracy, not helpfulness. A confident wrong answer causes more harm than admitting you don’t know.
+
+Follow these 7 rules in every response:
+
+UNCERTAINTY: If you are not fully certain about something, say so clearly. Use phrases like “I am not certain, but...” or “Worth verifying this...”. Never state guesses as facts.
+
+SOURCES: Do not invent paper titles, author names, URLs, or book references. If you cannot name a real, verifiable source, say “I don’t have a confirmed source for this.”
+
+STATISTICS: Flag any number you are not 100 percent confident in. Say “approximately” and recommend I verify it from a primary source.
+
+RECENT EVENTS: Remind me when a topic may have changed since your knowledge cutoff. Do not present outdated info as current.
+
+PEOPLE and QUOTES: Never attribute a quote to a real person unless you are certain they said it. If unsure, say “I cannot confirm this quote is accurate.”
+
+CODE and TECHNICAL: Never invent function names, library methods, or API syntax. If unsure a function exists, tell me to verify it in the current docs.
+
+LOGIC GAPS: Do not fill missing context with assumptions. If something is unclear, ask a clarifying question before answering.
+
+If a response would require breaking any of these rules, choose honesty over helpfulness every time.”
+
+Use this inside Claude’s custom instructions.
+
+I share similar AI prompts daily for FREE here: https://lnkd.in/dMGZuZAj
+
+
+==========
+
+
+If I had to restart my AI journey in 2026, this is exactly what I'd learn.
+
+In 2026, AI isn't about using ChatGPT.
+
+It's about knowing how to make AI work for you.
+
+The 12 skills I'd focus on:
+• Prompt engineering
+• AI workflows & automation
+• AI agents
+• RAG (Retrieval-Augmented Generation)
+• Multimodal AI
+• Fine-tuning & AI assistants
+• Voice AI & avatars
+• AI tool stacking
+• AI video generation
+• AI-powered SaaS development
+• LLM management
+• Staying up to date
+
+You don't need to master everything at once.
+Start with prompts → automation → agents.
+
+That combination alone will put you ahead of most people.
+
+Which AI skill are you learning next?
+
+Get free AI resources daily here: https://lnkd.in/dMGZuZAj
+
+
+---------
+
+I found 10 Claude commands.
+
+And now I can't decide if I've been using Claude wrong or just embarrassingly underqualified.
+
+For the longest time, my Claude workflow looked like everyone else's.
+
+Write this.
+Summarize that.
+Brainstorm ideas.
+Repeat.
+
+Which is fine.
+
+But it's a bit like hiring a world class consultant and only asking them to proofread your grocery list.
+
+Useful.
+A little tragic.
+
+The funny thing is that some of Claude's most useful capabilities aren't hidden behind complicated prompts or advanced workflows.
+
+They're ridiculously simple.
+
+One command.
+Completely different outcome.
+
+For example:
+
+/ghost
+→ When you want writing that sounds human instead of sounding like it was approved by a committee of robots.
+
+/roast
+→ For those moments when you need honest feedback.
+→ The kind that improves your work while quietly attacking your ego.
+
+/matrix
+→ Turns a messy decision into a comparison table.
+→ Perfect when you're choosing between tools, strategies, hires, or ideas.
+
+/steal
+→ One of my favourites.
+→ Instead of asking "what works?"
+→ Ask Claude to reverse engineer WHY it works.
+→ That's where the gold usually is.
+
+/brief
+→ Because sometimes you need the answer.
+→ Not the answer, a history lesson, three examples, and a motivational speech.
+
+/focus
+→ For keeping Claude on task.
+→ Which is useful because AI occasionally has the attention span of a Labrador that just spotted a squirrel.
+
+What surprised me wasn't the commands themselves.
+
+It was how dramatically they changed the quality of the output.
+
+Same model.
+Same subscription.
+
+Completely different results.
+
+And that's when it clicked.
+
+The real AI advantage isn't access.
+Everyone has access.
+
+The advantage is knowing how to get better thinking out of the same tools.
+
+Most people are looking for a smarter AI.
+The smarter move is usually becoming a better AI user.
+
+I share free Claude resources daily here: https://lnkd.in/dMGZuZAj
+
+
+----------
+
+I went deep down the GitHub rabbit hole for 90 days..
+
+These 12 AI repos are the only ones that actually matter:
+
+1. OpenClaw: The always-on personal AI agent that lives on your device and talks to you through WhatsApp, Telegram, and 50+ other platforms.
+
+2. N8n: A visual workflow automation platform with native AI capabilities and 400+ integrations.
+
+3. Ollama: Run powerful LLMs locally on your own hardware with a single command.
+
+4. Langflow: A drag-and-drop visual builder for designing and deploying AI agents and RAG workflows.
+
+5. Dify: A full-stack prod-ready platform for building and deploying AI-powered apps and agentic workflows.
+
+6. LangChain: The foundational framework powering the AI agent ecosystem with modular building blocks.
+
+7. Open WebUI: A self-hosted, offline-capable ChatGPT alternative
+
+8. DeepSeek-V3: An open-weight LLM that rivals GPT on benchmarks and is free for commercial use.
+
+9. Gemini CLI: Google’s open-source tool to interact with the Gemini model right from your terminal.
+
+10. RAGFlow: An enterprise-grade RAG engine that grounds AI answers in real documents with citation tracking.
+
+11. Claude Code: An agentic coding tool that understands your entire codebase and executes engineering tasks from the terminal.
+
+12. CrewAI: A lightweight Python framework for assembling teams of role-playing AI agents to collaborate on tasks.
+
+Over to you: Which other repository will you add to the list?
+
+P.S. I share similar resources every day (free): https://lnkd.in/dMGZuZAj
+
+---------
+
+Andrej Karpathy shared how he actually uses LLMs day to day:
+
+He's not writing more code with AI. He's spending most of his tokens building and maintaining a personal knowledge base on whatever he's actively researching.
+
+Here's the full breakdown:
+
+1/ It starts with raw data ingestion. Web articles, research papers, GitHub repos, datasets, images. Everything gets dumped into a raw folder. He uses a clipboard tool and hotkey to capture sources fast without breaking his flow.
+
+2/ An LLM reads, summarizes, and compiles all of it into a wiki. Not a messy notes folder. A structured collection of .md files with summaries, concept articles, and crosslinks between related ideas.
+
+3/ Obsidian is the frontend and IDE. He views raw data, the organized wiki, and visualizations all in one place. The LLM writes and maintains the entire wiki. He rarely edits it directly.
+
+4/ No RAG pipeline needed. Once the wiki grows big enough (around 100 articles, 400K words on a single topic), he just asks it questions. The LLM auto-maintains index files and reads its own index to find what it needs. No vector DB. No retrieval chain.
+
+5/ Outputs go way beyond text. He has the LLM render markdown files, Marp slide decks, and matplotlib charts. Then everything gets filed back into the wiki as new articles.
+
+6/ There's a self-improving loop built in. Every question he asks generates new content that feeds back into the knowledge base. The system gets smarter with every interaction.
+
+7/ He runs linting passes as health checks. The LLM scans the wiki to find inconsistencies, fill gaps using web search, discover missing connections between articles, and suggest entirely new topics to cover.
+
+8/ He vibe-coded extra tooling around it. A CLI, a search engine over the wiki, and a web UI. The search tool can be used directly in a browser or handed off to an LLM as a tool for larger queries.
+
+9/ The wiki isn't static. It cleans itself over time. Every linting pass and every new query tightens the structure, fills blind spots, and strengthens the connections across the entire knowledge base.
+
+10/ His next step is wild. Fine-tuning a model on synthetic data generated from his own wiki. So the knowledge lives in the model's weights permanently. Not just in the context window.
+
+This is what separates using LLMs from building with them.
+
+Most people treat AI as an answer machine. Karpathy turned it into a personal knowledge operating system. One system you can query, build on, and return to forever.
+
+If you're deep in any AI or DL research topic right now, this workflow is worth stealing.
+
+Image source: Stanislav Beliaev
+
+If you want more AI coding resources daily for free, sign up here: https://lnkd.in/dMGZuZAj
+
+
+
+------------
+
+🚨 MIT just released 10 FREE AI courses.
+
+Most people think AI is for engineers.
+
+They're wrong.
+
+AI literacy is becoming a leadership skill.
+
+The leaders who understand AI will make better decisions.
+
+The ones who don't?
+
+Will depend on vendors, consultants, and everyone else in the room.
+
+You don't need to learn coding.
+
+You need to understand:
+
+✅ What AI can do
+✅ What AI can't do
+✅ Where AI fails
+✅ What AI costs
+✅ What AI should never automate
+
+That's the difference between leading AI adoption...
+
+...and being led by it.
+
+Here are 10 free MIT AI courses worth taking:
+
+1. AI 101. The vendor-proofing starter.
+https://lnkd.in/gyJz7whc
+
+2. Artificial Intelligence. Separate real from hype.
+https://lnkd.in/ggneRvcZ
+
+3. Foundation Models and Generative AI. Spot overselling.
+https://lnkd.in/gNwgbtaE
+
+4. Introduction to Machine Learning. Fund the right bets.
+https://lnkd.in/gT5HcRs5
+
+5. Understanding the World Through Data. Ask sharper questions.
+https://lnkd.in/gVdj_EhG
+
+6. Introduction to Deep Learning. Know what actually costs millions.
+https://lnkd.in/gq8PwrnP
+
+7. ML with Python. See if your team is building or spinning.
+https://lnkd.in/gUdHfAhx
+
+8. How to AI Almost Anything. Find competitive whitespace.
+https://lnkd.in/ghfgKgsx
+
+9. Introduction to Algorithms. Defend AI decisions under scrutiny.
+https://lnkd.in/g2P-3ptd
+
+10. AI in K-12 Education. See transformation before it reaches you.
+https://lnkd.in/gs9Fesqy
+
+The biggest AI risk isn't being replaced.
+
+It's making decisions about AI without understanding it.
+
+Spend one hour.
+
+Learn enough to ask better questions.
+
+That alone puts you ahead of most leaders.
+
+📌 Save this list.
+🔄 Repost to help others learn AI.
+💬 Which course would you start with?
+➕ Follow Harish Kumar for more AI resources.
+
+hashtag#AI hashtag#ArtificialIntelligence hashtag#MIT hashtag#MachineLearning hashtag#GenerativeAI hashtag#Leadership hashtag#FutureOfWork hashtag#CareerGrowth hashtag#Technology hashtag#Learning
+
+
+
+------------
+
+🚨 If you understand these 12 AI terms...
+
+You're already ahead of most professionals.
+
+The problem isn't that AI is complicated.
+
+It's that everyone uses AI jargon without explaining what it actually means.
+
+LLM.
+RAG.
+Tokens.
+Fine-tuning.
+RLHF.
+
+These words are everywhere.
+
+In meetings.
+On LinkedIn.
+In AI product demos.
+
+Most people pretend they understand them.
+
+Today, you actually will.
+
+
+Here are 12 AI terms every professional should know in 2026:
+
+1. LLM (Large Language Model)
+The AI brain behind ChatGPT, Claude, Gemini, Copilot.
+Trained on billions of documents.
+Predicts the most likely next word — at scale.
+
+
+2. Hallucination
+When AI makes stuff up.
+Confidently. Completely wrong.
+Happens when training data has gaps.
+
+
+3. Token
+The building block of AI communication.
+Not a word — a chunk of a word.
+More tokens = more cost in enterprise settings.
+
+
+4. Training vs. Inference
+Training = teaching the model.
+Inference = the model doing the work.
+You can't have the second without the first.
+
+
+5. Fine-tuning
+Taking a general model.
+Feeding it specialized data.
+Making it smarter at one specific thing.
+
+
+6. Reinforcement Learning (RLHF)
+RLHF = Reinforcement Learning from Human Feedback
+AI learns by trial, reward, and repeat.
+Like training a dog — but the dog is a neural network.
+
+7. Distillation
+Teaching a small model to mimic a large one.
+Faster. Cheaper. Nearly as good.
+Likely how GPT-4 Turbo was built.
+
+
+8. RAG
+RAG = Retrieval-Augmented Generation.
+AI + your own documents.
+Reduces hallucinations dramatically.
+
+
+9. Chain of Thought
+Breaking a complex problem into steps.
+Like showing your work in math class.
+Slower — but far more accurate.
+
+
+10. Weights
+Numbers that shape what the model "knows."
+Start random. Adjust during training.
+The model's actual learned intelligence — stored as math.
+
+
+11. Validation Loss
+A score that tells you how well training is going.
+Lower = better.
+Helps catch overfitting before it's too late.
+
+
+12. Coding Agent
+An AI that doesn't just suggest code.
+It writes, tests, and debugs — autonomously.
+Think: a tireless intern who never loses focus.
+
+
+The people who understand these terms don’t just sound smarter.
+
+They ask better questions.
+They evaluate tools better.
+And they make better decisions about AI.
+
+If you work with AI in any form, this vocabulary is no longer optional.
+
+📌 Save this post for later
+💬 Which AI term confused you the most at first?
+♻️ Repost if this helped simplify AI jargon for your network
+
+🔔 Follow Harish Kumar for more AI insights, career tips, and practical resources
+
+
+--------
+
+
+Most people only search for jobs on LinkedIn.
+
+That’s a huge mistake.
+
+There are dozens of better platforms that can help you land high-paying remote jobs.
+
+Here are 16 websites that pay in USD for remote work:
+
+1. Remotive 
+- Curates active, fully remote tech jobs 
+- Trusted by top global tech companies 
+- Link: https://lnkd.in/gya5XBn7
+
+2. We Work Remotely 
+- Largest remote work community with 4.5M+ visitors 
+- Offers a wide range of remote job opportunities 
+- Link: https://weworkremotely.com
+
+3. Wellfound 
+- Connects job seekers with startups 
+- 130K+ tech jobs from 27K companies 
+- Link: https://wellfound.com/ 
+
+4. Hubstaff Talent
+- Free resource for companies looking for remote talent
+- Connects businesses with freelancers and agencies worldwide
+- Link: https://hubstafftalent.net
+
+5. Workwave
+- Remote job listings for various industries 
+- Known for flexible work opportunities 
+- Link: https://www.workwave.com/ 
+
+6. AI Jobs 
+- Focuses on AI-related remote job listings 
+- Features top 1% of AI companies 
+- Link: https://theaijobboard.com 
+
+7. Remote Woman 
+- Remote job board tailored for women 
+- Promotes flexibility and career growth 
+- Link: https://remotewoman.com/ 
+
+8. Toptal 
+- Exclusive network for top freelancers 
+- Covers software development, design, finance & more 
+- Link: https://www.toptal.com/ 
+
+9. Flex Jobs 
+- Find remote jobs globally or near you 
+- Offers career coaching and resume help 
+- Link: https://www.flexjobs.com/ 
+
+10. JS Remotely 
+- Specializes in JavaScript-related remote jobs 
+- Includes React, Vue, Node.js, and Angular roles 
+- Link: https://jsremotely.com/ 
+
+11. Remote OK 
+- Aggregates remote jobs from across industries 
+- Allows filtering jobs by category and salary 
+- Link: https://remoteok.com/ 
+
+12. Working Nomads 
+- Remote jobs tailored for digital nomads 
+- Handpicks opportunities across industries 
+- Link: https://lnkd.in/gY74eP7k
+
+13. JustRemote 
+- Jobs that fit your lifestyle 
+- Offers fully and partially remote options 
+- Link: https://justremote.co/ 
+
+14. Remote.co 
+- Hand-curated list of remote jobs 
+- Features 146+ remote-first companies 
+- Link: https://remote.co/ 
+
+15. Remote Circle 
+- Helps find remote jobs in your timezone 
+- Covers a variety of industries and roles 
+- Link: https://remotecircle.com/ 
+
+16. Job Hunt
+
+- Al-powered Job Application Assistant to get hired faster.
+- You can also build an Al Resume with Job Hunt resume builder.
+
+https://www.job-hunt.org/
+
+
+Coding: w3schools.com & Hacker Rank 
+
+What is your favourite ❓ Tell me in comments 
+
+
+If you think 🤔 it is useful 
+
+♻️Repost this to help someone land a remote job 🌍
+
+📌 Save this for your next job search
+🚀 Follow Harish Kumar for more career resources
+
+ Remote Jobs 
+hashtag#Productivity hashtag#Career hashtag#job
+
+
+----------
+
+
+🚨 I don't understand why more people aren't using this Claude prompt.
+
+Most people think AI gives wrong answers because it's not smart enough.
+
+Wrong.
+
+The real problem?
+
+AI can sound confident even when it's guessing.
+
+This prompt fixes that.
+
+It forces Claude to prioritize truth and accuracy over sounding helpful.
+
+The result?
+
+✅ Better answers
+✅ More reliable research
+✅ Fewer hallucinations
+✅ Better fact-checking
+✅ More trustworthy outputs
+
+Here's the exact prompt (save this now) 👇
+
+
+1/ Open Claude settings
+
+→ Click your profile picture in the bottom left corner.
+→ Go to Settings.
+→ Click General.
+→ Find the "Instructions for Claude" field.
+
+2/ Paste this full prompt
+
+"You are committed to truth and accuracy above everything else, including being helpful. A wrong answer delivered confidently is worse than no answer. Follow these 7 rules in every response:
+
+1. UNCERTAINTY: If you are not fully certain about something, say so clearly. Use phrases like "I am not certain, but..." or "You may want to verify this...". Never state guesses as facts.
+
+2. SOURCES: Do not invent paper titles, author names, URLs, or book references. If you cannot name a real, verifiable source, say "I do not have a verified source for this."
+
+3. STATISTICS: Flag any number you are not 100 percent confident in. Say "approximately" and recommend I verify it from a primary source.
+
+4. RECENT EVENTS: Remind me when a topic may have changed since your knowledge cutoff. Do not present outdated info as current.
+
+5. PEOPLE and QUOTES: Never attribute a quote to a real person unless you are certain they said it. If unsure, say "I cannot confirm this quote is accurate."
+
+6. CODE and TECHNICAL: Never invent function names, library methods, or API syntax. If unsure a function exists, tell me to verify it in the current docs.
+
+7. LOGIC GAPS: Do not fill missing context with assumptions. If something is unclear, ask a clarifying question before answering.
+
+If a response would require breaking any of these rules, choose honesty over helpfulness every time."
+
+3/ What this changes
+
+Claude will flag its own guesses instead of stating them as facts.
+It refuses to invent sources, quotes, or statistics. It tells you when it's unsure instead of confidently lying.
+
+It asks clarifying questions when context is missing. This works in every chat, forever.
+
+Copy the prompt, paste it in settings, and Claude stops lying to you.
+
+Have you tried this yet?
+
+Most people will scroll past this.
+
+The smart ones will copy it and instantly improve every conversation they have with AI.
+
+💾 SAVE this prompt before you forget
+
+🔁 REPOST to help others get better AI answers
+
+💬 Have you ever caught an AI confidently making something up?
+
+👇 Tell me in the comments
+
+➕ Follow Harish Kumar for more AI, Career & Productivity tips
+
+hashtag#ClaudeAI hashtag#ArtificialIntelligence hashtag#AITools hashtag#ProductivityHacks
+
+
+------
+
+🚨 Claude just released 12 FREE AI courses.
+
+No degree.
+
+No expensive bootcamp.
+
+No paid subscription.
+
+Just practical AI skills—directly from the team building Claude.
+
+Most people use AI every day.
+
+Very few understand how AI actually works.
+
+That's the difference between using AI and building with AI.
+
+Here are 12 FREE official Claude courses:
+
+1️⃣ Claude 101
+
+[https://lnkd.in/gEURDEAg]
+
+2️⃣ What You Can Do with AI
+
+[https://lnkd.in/g9gjAKhf]
+
+ 3️⃣ AI Capabilities & Limitations
+
+[https://lnkd.in/gvPvdcRU]
+
+4️⃣ Claude Guide to AI Agents (Introduction to Agent Skills)
+
+[https://lnkd.in/gEibtDTn]
+
+5️⃣ Introduction to Claude Cowork
+
+[https://lnkd.in/g_qJUah9]
+
+6️⃣ Claude Code 101
+
+[https://lnkd.in/gg9Av-qn]
+
+7️⃣ Introduction to Subagents
+
+[https://lnkd.in/gACEUUVk]
+
+ 8️⃣ Introduction to Agent Skills
+
+[https://lnkd.in/gEibtDTn]
+
+ 9️⃣ Introduction to Model Context Protocol (MCP)
+
+[https://lnkd.in/gUMpcqTe]
+
+🔟 AI Fluency: Frameworks & Foundations
+
+[https://lnkd.in/g9gjAKhf]
+
+1️⃣1️⃣ Building with the Claude API
+
+[https://lnkd.in/gh6cNMf2]
+
+1️⃣2️⃣ Explore All Official Claude Courses
+
+[https://lnkd.in/gG7ZQ5ht]
+
+---
+
+Most people spend months watching random AI videos.
+
+The smartest learners go straight to the source.
+
+These courses cover:
+
+✅ Claude fundamentals
+✅ AI agents
+✅ Claude Code
+✅ MCP
+✅ APIs
+✅ AI fluency
+✅ Real-world AI workflows
+
+The people learning AI today...
+
+Will have a huge advantage tomorrow.
+
+---
+
+📌 Save this list for your AI learning journey.
+
+❤️ Like if you believe world-class AI education should be free.
+
+🔄 Repost to help others discover these free Claude courses.
+
+💬 Comment: Which course are you starting first?
+
+➕ Follow Harish Kumar for more AI resources, career tips, and free learning opportunities.
+
+
+
+---------
+
+
+Marines carry a folded card with the reps they're not allowed to skip. So, I made one (for Claude):
+
+(27 tips after abusing Claude for 1,800 hours)
+
+→ Make Claude ask YOU questions (tip # 8)
+Paste this at the end of any prompt:
+"Before answering, use the AskUserQuestion form to get more context from me if necessary."
+
+You cannot possibly fail after Claude repeatedly asks you questions. The most underrated feature.
+
+→ Talk instead of typing (tip # 5)
+Download wispr flow. Open Claude. Press the "Shift" key. Talk for 10 mins straight: the goal, constraints, what you already tried, what you hate, your contradictions. 
+
+Then end with: "These are the messy drafts. Ask me questions if you didn't get something as a form."
+
+When you type, you delete context without noticing. When you talk, you don't.
+
+→ Make images without an AI generator (tip # 3)
+Upload a picture you like on Claude, then prompt:
+"Code an HTML-like infographic like the one I attached, but about [topic]."
+
+Export the HTML to Canva. The text is always right, which image generators still can't promise.
+
+→ Say what you hate, not what you want (tip # 17)
+"Make it punchier" does nothing. Adjectives are useless. Instead: "Never write like this: [paste the thing you hate]."
+
+It draws the exact line not to cross.
+
+→ Build a mini-app in a message (tips # 13 + # 14)
+"Build me an artifact that tracks [my habits / my pipeline / my reading list], and make it save my data between sessions."
+Then: "Make it so there is a Claude coach inside I can talk to, with the context of this artifact."
+
+Publish it, share the link. The other person use Claude through your app.
+
+Three (one-time) settings, 30 seconds, today:
+
+1. Click + → Connectors and turn off everything you don't actively use. Every active one loads into every single message you send. You pay for that.
+
+2. Start new chats at 50 turns. Past 100, Claude is re-reading a novel before every answer, and it gets dumber and pricier.
+
+3. When Claude is wrong, don't type "no, that's wrong." Go back to the prompt before the bad answer, edit it, save. The wrong answer stays in the conversation forever otherwise.
+
+And the one nobody believes until they try it: 
+
+4. A Claude Project with 40 files in it is why everything you write sounds the same. Claude answers FROM your files instead of thinking. Projects are for repeated tasks with fixed material. Every new idea starts in an empty chat.
+
+That's 9 of the 27.
+
+The other 18 - plus the screenshots for every one of them - are in the full write-up: how-to-ai.guide
+
+--------
+
+
+These are the exact Claude Skills I use every day.
+
+I'm giving you the whole library (for free):
+
+A Skill is just a /command that fires itself.
+
+No more re-explaining who you are.
+No more "read this file first."
+No more rebuilding the same setup every chat.
+
+You type one word. Claude already knows the job.
+
+Here are the ones I use the most:
+
+1. /grill-me - forces Claude to interview me with 10-15 questions before it builds anything.
+2. /humanizer - kills the em-dashes, the dead giveaway AI words. Finally reads human.
+3. /fact-checker - verifies every claim before I publish. Saved me from bad info more than once.
+4. /prompt-master - restructures my messy brain-dumps before Claude runs the task. 
+5. /linkedin-hook - writes the first two lines that decide whether anyone reads the post.
+
+…and the rest of the library, all done, all free.
+
+Stop building Skills from scratch. I already did the days of work. Here's how to get all of them:
+
+Step 1. Subscribe for free at how-to-ai.guide.
+Step 2. Open the welcome email (don't skip this).
+Step 3. Click the Notion link. Open "Skills" folder.
+Step 4. Download the whole Skills library.
+Step 5. Upload to Claude → Settings → Skills.
+
+That's it. One click, zero weekends.
+The best part: Claude only reads the 3-line header of each Skill until you need it. So installing the whole library actually saves tokens.
+
+♻️ Repost this to save someone a weekend.
+
+---------
+
+If you already knew all 26 hacks, unfollow me.
+
+Almost nobody makes it past Claude hack 8:
+
+(#3 is me deleting my own past advice):
+
+1. Use the Claude Desktop app. The browser is the demo. The app is where Cowork lives.
+
+2. Use Cowork, not the chatbot. If you're typing into a chat box, you're using it like it's 2025.
+
+3. Forget .md files & folders. Folders leak old outputs into your context, and nobody on Earth maintains those files weekly.
+
+4. Skills and Projects. That's the entire system now. A skill is a capability you teach once. A project is a place you go back to.
+
+5. Delete your about-me file. Rebuild it as a skill so it follows you into every single chat.
+✦ Don't know how to build one? Take mine:
+✦ Go to how-to-ai.guide. Subscribe for free.
+✦ Don't pay anything. Open my welcome email.
+✦ Hit the automatic reply button inside.
+✦ Open the Notion link. Go to "Claude skills".
+✦ Download the library. Upload it in Customize.
+
+6. Turn every setting off. Empty your global instructions. Leave Connectors on. That's it.
+
+7. Projects remember between chats. And you can share one with your entire team in two clicks.
+
+8. Here's where most people quit reading. The longer your chat, the dumber it gets. Anthropic's own engineers said it out loud.
+
+9. So stop typing "no, I meant…". Click "Restart the conversation from here" on an earlier message. 
+
+10. A token is roughly one word. Every word you send & receive is money. Message 30 costs you 31 times message 1.
+
+11. Point Fable 5 at your single hardest problem. Two turns. Then switch models. Turns are the most expensive habit you have.
+
+12. Opus 5 High for everything else. High, not Max.
+
+13. Don't give Claude steps. Give it the goal & get out of the way. Steps drag it down to old Claude.
+
+14. Don't paste logins, passwords, or keys. Ever.
+
+15. Skills fire themselves. You don't prompt them. You type /command.
+
+16. It will sound 100% sure when it's dead wrong.
+
+17. Don't trust agreement either. Claude is a sycophant. Pleasing you and being right are two different jobs.
+
+18. Use Research mode (the "+" in the chat box). Almost nobody knows it's in there. Give it something genuinely hard.
+
+19. Add "use AskUserQuestion" to your prompt. Claude interviews you before it answers. It prompts itself better than you ever will.
+
+20. Talk, don't type. Cowork reads 100,000 words in 15 secs, then waits for you at 60 words per minute. You speak at 150.
+
+21. Ask for five very different versions. Then pick one. That part is taste, and taste is the part it can't do for you.
+
+22. Make it audit its own answer before you trust a single line.
+
+23. Feed it too much context and it goes in circles. Same answers every time, zero creativity. Keep the context in the project and the chat clean.
+
+24. The first draft is yours to fix, not to ship. Always.
+
+25. The only rule that matters: outsource the thinking, never the understanding.
+
+----------
+
+These are the exact Claude Skills I use every day.
+
+I'm giving you the whole library (for free):
+
+A Skill is just a /command that fires itself.
+
+No more re-explaining who you are.
+No more "read this file first."
+No more rebuilding the same setup every chat.
+
+You type one word. Claude already knows the job.
+
+Here are the ones I use the most:
+
+1. /grill-me - forces Claude to interview me with 10-15 questions before it builds anything.
+2. /humanizer - kills the em-dashes, the dead giveaway AI words. Finally reads human.
+3. /fact-checker - verifies every claim before I publish. Saved me from bad info more than once.
+4. /prompt-master - restructures my messy brain-dumps before Claude runs the task. 
+5. /linkedin-hook - writes the first two lines that decide whether anyone reads the post.
+
+…and the rest of the library, all done, all free.
+
+Stop building Skills from scratch. I already did the days of work. Here's how to get all of them:
+
+Step 1. Subscribe for free at how-to-ai.guide.
+Step 2. Open the welcome email (don't skip this).
+Step 3. Click the Notion link. Open "Skills" folder.
+Step 4. Download the whole Skills library.
+Step 5. Upload to Claude → Settings → Skills.
+
+That's it. One click, zero weekends.
+The best part: Claude only reads the 3-line header of each Skill until you need it. So installing the whole library actually saves tokens.
+
+♻️ Repost this to save someone a weekend.
+
+--------
+
+Don't post (obvious) AI-written content.
+
+Here are 12 tells to delete & the 11 skills that fix it:
+
+(all 11 skills are free here → how-to-ai.guide)
+
+Delete these from your writing today-
+
+1. "Delve." You've never said it out loud. Once.
+2. "Crucial/pivotal." Nothing is that pivotal.
+3. "Tapestry." No human speaks like this.
+4. "Here's the thing." There is no thing.
+5. "Hope this helps." It doesn't. It outs you.
+6. "After careful consideration." without considering
+7. "to provide a quick update." Just give the update.
+8. "Most people…" The lazy oversimplification.
+9. "Robust / seamless / realm." The corporate AI.
+10. Adverb abuse. "X quietly runs Y." Nothing runs.
+11. "It's not X, it's Y." The famous AI sentence alive.
+12. 'This isn't a budget. It's a statement of intent' No
+
+Now my personally used 11 Claude skills that fix it:
+
+1. /writer
+Writes the first draft in your structure, not Claude's.
+Good draft in = nothing to clean up later.
+
+2. /editor
+Cuts the fluff and the filler.
+Every sentence earns its place or dies.
+
+3. /fact-checker
+Kills invented stats and fake-sounding quotes.
+One hallucinated number and nobody trusts you again.
+
+4. /anti-AI style
+The base rewrite. Breaks the robotic rhythm 
+where every sentence is the same 18 words.
+
+5. /ban-the-AI-words
+Auto-blocks "delve," "crucial," "tapestry"
+& the entire red list above.
+
+6. /ban-the-AI-patterns
+Kills "It's not X, it's Y" and the fake-deep endings.
+The patterns out you faster than the words do.
+
+7. /sound like your posts
+Feed it 5 of your old posts. It writes like YOU, not like Claude. This one replaces every "humanizer" tool you've paid for.
+
+8. /humanizer
+Strips whatever AI smell is left.
+Contractions in, em dashes out.
+
+9. /red-pen
+Flags your weak lines before your readers do.
+
+10. /self-critique
+Claude critiquing Claude beats Claude on the first try. It loops until the text reads clean.
+
+11. /auto-block-banned-words
+The safety net. Nothing on the red list ever ships again.
+
+That's the whole setup. 
+12 tells deleted. 11 skills. 0 AI smell.
+
+Want the exact Claude Skills library I use?
+It's free here → how-to-ai.guide.
+Subscribe. Open the welcome email.
+Click the Notion link inside.
+Download the Claude Skills folder.
+Upload once to Claude. Done.
+
+♻️ Repost this so people can stop sounding like AI.
+
+
+----------
+
+Stop bookmarking 50 guides you'll never read. 
+
+You can skip all of it with these 17 free guides:
+
+Claude 101: https://lnkd.in/gTKxkNrY
+Claude Fable-5: https://lnkd.in/eXGyP7eR
+Claude Cowork: https://lnkd.in/ewnrQbDt
+Claude Code: https://lnkd.in/dDZc89_J
+Claude Skills: https://lnkd.in/gRq4tpgc
+Claude Design: https://lnkd.in/eGnArUbB
+Claude for Excel: https://lnkd.in/dPmwrBk8
+⁠How to Prompt: https://lnkd.in/gEbmng5W
+Claude + Linkedin: https://lnkd.in/gyZ2Y-ym
+Be good at Claude: https://lnkd.in/g49kgYX9
+Stop writing like AI: https://lnkd.in/gb-6qd57
+⁠Claude for your team: https://lnkd.in/gafjDp35
+AI Detectors are scam: https://lnkd.in/e8hfzKh8
+Claude Connectors: https://lnkd.in/d2RNrTEM
+Stop Prompting Claude: https://lnkd.in/e47NxW22
+Claude to sound like you: https://lnkd.in/gbwnfs34
+Stop hitting Claude limits: https://lnkd.in/gzzhvrY6
+Stop using Claude at work:https://lnkd.in/gPiDW8Qn
+𝐈 𝐚𝐦 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐟𝐨𝐥𝐥𝐨𝐰 𝐨𝐧𝐞 𝐬𝐞𝐧𝐭𝐞𝐧𝐜𝐞 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐚𝐧 𝐋𝐋𝐌. 𝐄𝐯𝐞𝐫𝐲 𝐬𝐭𝐞𝐩. 𝐍𝐨𝐭𝐡𝐢𝐧𝐠 𝐬𝐤𝐢𝐩𝐩𝐞𝐝.
+
+The sentence: "The cat sat on the mat."
+
+You type it. The model responds. Between those two moments, your words get shredded into numbers, passed through dozens of layers, converted into probabilities across 50,000+ possible next words, and one gets chosen.
+
+Stage 1: Your words get destroyed (on purpose)
+
+"The cat sat on the mat" doesn't enter the model as words. It gets split into tokens, subword pieces mapped to numeric IDs. Then those IDs become vectors, dense lists of numbers where similar meanings land near each other.
+
+The model never reads your sentence. It reads a grid of numbers. But those numbers carry meaning, "cat" and "kitten" end up closer together than "cat" and "spreadsheet."
+
+Stage 2: Every word looks at every other word
+
+Positional encoding stamps each token with its position, so the model knows "cat sat" isn't "sat cat." Then attention happens.
+
+Each token generates three vectors: Query ("what am I looking for?"), Key ("what do I contain?"), Value ("what do I offer?"). Every token's Query checks against every other token's Key. High match? That token's Value flows in strongly.
+
+Multiple "heads" run this in parallel. One head might track grammar. Another tracks what "it" refers to. Another tracks sentiment. Running them simultaneously builds rich context from a flat sequence.
+
+This is the 2017 breakthrough. Everything before it read sequentially. Transformers read everything at once.
+
+Stage 3: The model thinks about what it noticed
+
+Attention decided what to look at. Now a feed-forward network decides what to do with it. Expand the representation, apply a nonlinearity (GELU), compress it back.
+
+This expand-and-compress pattern at every position is where much of the model's "knowledge" actually lives. It holds a huge share of total parameters. Attention routes information. Feed-forward processes it.
+
+Stage 4: One word gets chosen
+
+Take the final representation of the last position. Map it to a vector the size of the entire vocabulary, 50,000+ possible next tokens. Softmax converts those raw scores into probabilities.
+
+"mat" might score 0.31. "rug" might score 0.12. "floor" might score 0.08. The model picks one, by sampling or by taking the highest.
+
+Then it appends that token to the input and runs the entire process again. For the next token. And the next.
+
+That loop explains everything:
+
+Why streaming works, tokens arrive one at a time because they're generated one at a time. 
+Why long outputs cost more, each token requires a full forward pass. 
+Why hallucinations happen, a confident wrong prediction becomes the next input, and the model builds on it.
+
+Which stage was your "aha" moment?
+
+
+--------
+
+𝐈 𝐮𝐬𝐞𝐝 𝐭𝐨 𝐭𝐡𝐢𝐧𝐤 𝐛𝐞𝐭𝐭𝐞𝐫 𝐩𝐫𝐨𝐦𝐩𝐭𝐬 𝐦𝐞𝐚𝐧𝐭 𝐛𝐞𝐭𝐭𝐞𝐫 𝐨𝐮𝐭𝐩𝐮𝐭𝐬.
+
+Then I started engineering what the model could see and got better results with worse prompts than I ever got with perfect ones.
+
+That is context engineering. And it comes down to 4 Cs:
+
+1. Construct: Assemble the Right Context
+
+Before the model thinks, you decide what it sees:
+
+• System prompts defining behavior and constraints.
+• RAG pulling relevant documents from your knowledge base.
+• Tool definitions telling the model what it can do.
+• Conversation history providing continuity.
+• User input: the actual question.
+
+Most teams obsess over the prompt and neglect everything around it. The prompt is one ingredient. The context is the entire kitchen.
+
+The quality of what you assemble here caps everything downstream. Bad retrieval, stale history, missing tool definitions, no prompt fixes those.
+
+2. Compress: Fit What Matters
+
+Context windows aren't infinite. Token budgets aren't free:
+
+• Summarize long conversations instead of dumping full history.
+• Truncate or filter retrieved documents to the relevant sections.
+• Use smart context selection not everything retrieved deserves to be included.
+
+The discipline: include what matters, exclude what doesn't. More context isn't better context. A focused 2,000 tokens outperforms a bloated 8,000 every time.
+
+3. Cache: Stop Recomputing
+
+Repeated context assembly is pure waste:
+
+• Cache system prompts and stable instructions.
+• Store embeddings instead of re-embedding on every call.
+• Reuse retrieved results for identical or similar queries.
+
+A cache hit can cost roughly 10% of a cache miss. The teams not caching are paying 10x for the same context repeatedly. One of the biggest cost levers most teams ignore.
+
+4. Correct: Validate Before Trusting
+
+Context can be wrong. Retrieval can miss. History can mislead:
+
+• Verify retrieved documents are relevant before injection.
+• Check for contradictions between sources.
+• Grade context quality and fall back to alternatives when it's low.
+• Filter outdated information that would poison the response.
+
+The model trusts whatever you put in front of it. If the context is wrong, the output is wrong confidently.
+
+How do the 4 Cs connect?
+
+Construct assembles context. Compress fits it. Cache makes it efficient. Correct makes it trustworthy. Each step feeds the next. Skip any one and the system degrades in a specific way.
+
+• No construction: the model guesses.
+• No compression: context overflows or dilutes.
+• No caching: costs explode.
+• No correction: wrong context, wrong answers.
+
+The real shift:
+
+Prompt engineering optimizes what you say. Context engineering optimizes what the model sees. The second determines output quality far more than the first.
+
+Which C is your system weakest at?
+
+-----------
+
+
+Everyone is talking about AI Agents.
+
+Very few are talking about Agentic AI.
+
+And they are not the same thing.
+
+An AI Agent is like an employee who completes a task when you assign it.
+
+"Summarize this document."
+"Generate this email."
+"Analyze this CSV."
+
+Task received.
+Task completed.
+
+Agentic AI behaves more like a team.
+
+It understands the goal, creates a plan, delegates work, checks progress, learns from feedback, and adapts when things change.
+
+Think of it this way:
+
+AI Agent = Execution
+
+Agentic AI = Execution + Planning + Memory + Reflection + Coordination
+
+The progression usually looks like this:
+
+Level 0 → Runs commands
+
+Level 1 → Assists users
+
+Level 2 → Completes small tasks independently
+
+Level 3 → Multiple agents collaborate
+
+Level 4 → Self-corrects using memory
+
+Level 5 → Operates with minimal supervision
+
+When should you use each?
+
+Use an AI Agent when:
+• The task is simple and well-defined
+• Speed matters more than autonomy
+• You want predictable outputs
+
+Use Agentic AI when:
+• The workflow involves multiple steps
+• Decisions depend on context
+• The system needs memory and feedback loops
+• Human intervention should be minimized
+
+A lot of companies are building agents today.
+
+The next wave will be building systems of agents that can reason, collaborate, and continuously improve.
+
+That's where Agentic AI starts becoming interesting.
+
+Have you built a simple AI Agent or experimented with Agentic AI systems yet? 👇
+
+1. Save this list for later (three dots, top right).
+2. Share it with a friend by ♻️ reposting this image.
+3. Subscribe to my free newsletter: how-to-ai.guide.
+
+
+---------
+
+
+
