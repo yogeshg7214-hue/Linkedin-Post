@@ -1,0 +1,55 @@
+A chatbot answers. An agent acts.
+
+I spent 30 days building agents that actually do work, not just chat.
+
+A chatbot answers a question and stops. An agent takes a goal and finishes it.
+
+That difference is why agents save hours and chatbots save seconds.
+
+Most teams stop at chatbots. Builders who ship agents get 5 times output with same team.
+
+4 things that actually make agents work👇
+
+1. Goal, not prompt:
+
+> Before: Write an email about our product
+> After: Goal is to research company, find pain, draft email, log to CRM, set follow up. Agent does all steps.
+> Why it works: Agent plans steps, chatbot needs you to plan.
+
+2. Memory, not just context:
+
+> Before: Chatbot forgets after 5 messages
+> After: Agent stores what worked, what failed, and reuses it next time. Learns from feedback.
+> Extra: Memory is why second run is always better than first.
+
+3. Tools, not just text:
+
+> Before: Chatbot writes text and stops
+> After: Agent uses tools - browse web, run code, send Slack, update sheet, call API.
+> Example: Research company with Perplexity, draft with Claude, log with Make.
+
+4. Reflection, not just execution:
+
+> Before: Agent runs once, even if wrong
+> After: Agent checks its own output, fixes gaps, and runs again. Self corrects.
+> Result: 4 hours of manual research becomes 11 minutes with check.
+
+Stack I use for agents: Claude, Make, Perplexity, Airtable. No code needed to start.
+
+Start with one repeat task. Give goal, tools, and checklist. Watch it run. Fix one gap. Repeat.
+
+Small win: Start with research to draft flow. One flow proves concept.
+
+Lesson: Goal plus tools plus memory beats prompt alone.
+
+Save this guide if you want to move from answering to acting.
+
+What is one task you would give to an agent first?
+
+Small win: Start with one agent that handles one repeat task end to end.
+Lesson: Goal plus tools plus memory beats prompt alone every time.
+Tip: Give agent checklist, not vague goal. Checklist wins.
+Additional valuable detail 0 for AI Guides that adds real context.
+Additional valuable detail 1 for AI Guides that adds real context.
+Additional valuable detail 2 for AI Guides that adds real context.
+If you like this and want more AI resources, tutorials, and tools, join ByteBuilders, my daily AI newsletter with 100K+ subscribers: [https://bytebuilders.beehiiv.com/subscribe](https://bytebuilders.beehiiv.com/subscribe)

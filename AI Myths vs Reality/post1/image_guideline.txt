@@ -1,0 +1,26 @@
+Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
+
+Theme: Printed sheet on white textured paper, clean light minimal, simple
+
+Top:
+Big bold title all caps: AI MYTHS VS REALITY
+Subtitle: The job you lose to AI is the one you did not upgrade.
+
+Middle:
+4 cards vertical with Before/After and blockquote explanations
+- Card 1 to 4 with numbered circles 01 to 04 in blue #2563EB
+- Each card: Title, Before WRONG red cross, After CORRECT green check, Formula or Time saved
+- Use icons: check, cross, clock, arrow, briefcase
+
+Bottom:
+Result highlight with numbers - time saved, output increase
+
+Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
+
+Colors: White background, blue accent for numbers, black text, light red #FEF2F2 for wrong, light green #F0FDF4 for correct
+
+Visual Elements: Numbered circles, cross/check icons, arrows, official logos where relevant
+
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary clutter
+
+Goal: Save worthy teardown, scan in 7 seconds, high information density

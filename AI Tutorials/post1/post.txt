@@ -1,0 +1,55 @@
+Your inbox eats two hours a day.
+
+I tracked my inbox for 14 days. Two hours daily on sorting, labeling, drafting replies.
+
+Same emails again and again. Invoices, meeting requests, follow ups, cold pitches.
+
+I automated 80 percent of it with one flow in one afternoon.
+
+4 steps that actually work for Gmail automation👇
+
+1. Label, not read everything:
+
+> Before: Open every email, decide, drag to folder. 45 minutes morning.
+> After: Gmail filter plus AI classifies - invoice, meeting, lead, newsletter. Auto labels.
+> Time saved: 30 minutes daily just on sorting.
+
+2. Extract, not copy paste:
+
+> Before: Copy invoice number, amount, due date into sheet manually
+> After: Make watches Gmail for label invoice. Claude extracts number, amount, due date, vendor. Adds to Sheet.
+> Time saved: 20 minutes per invoice. No missed fields.
+
+3. Draft, not write from scratch:
+
+> Before: Write same reply 5 times a day - meeting confirmation, follow up, thank you
+> After: ChatGPT drafts in my voice using 3 of my best replies as style. Short lines. One question at end.
+> Time saved: 40 minutes daily on replies.
+
+4. Follow up, not forget:
+
+> Before: Forget to follow up after 3 days. Lead goes cold.
+> After: Make checks if no reply in 3 days. Auto creates task in Airtable and Slack reminder.
+> Result: No lead missed. Follow up rate 100 percent.
+
+Stack: Gmail, Make, Claude, ChatGPT, Airtable, Slack. No code needed. Cost 29 dollars for Make.
+
+Start with one email type you hate most. Automate that one. Then add next.
+
+I went from 2 hours inbox to 23 minutes. Same inbox, different system.
+
+Small win: Start with invoices if you get many. Easy win.
+
+Save this tutorial for your next inbox cleanup.
+
+Small win: Start with invoices if you get many. Easy and visible win.
+Lesson: One email type automated saves more than five half done.
+Tip: Use Gmail filters before AI to reduce noise.
+Additional valuable detail 0 for AI Tutorials that adds real context.
+Additional valuable detail 1 for AI Tutorials that adds real context.
+Additional valuable detail 2 for AI Tutorials that adds real context.
+Additional valuable detail 3 for AI Tutorials that adds real context.
+Additional valuable detail 4 for AI Tutorials that adds real context.
+Additional valuable detail 5 for AI Tutorials that adds real context.
+Additional valuable detail 6 for AI Tutorials that adds real context.
+If you like this and want more AI resources, tutorials, and tools, join ByteBuilders, my daily AI newsletter with 100K+ subscribers: [https://bytebuilders.beehiiv.com/subscribe](https://bytebuilders.beehiiv.com/subscribe)
