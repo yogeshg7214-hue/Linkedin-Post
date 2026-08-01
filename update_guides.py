@@ -1,4 +1,12 @@
-The 'Search and Summarize' era of AI is dead. If you are still using simple RAG, you are building for 2024.
+import os
+
+# Target: 2nd Category (ai-guides)
+cat = "ai-guides"
+path = f"categories/{cat}/post1"
+os.makedirs(path, exist_ok=True)
+
+# 1. VIRAL POST CONTENT (Roadmap Pattern)
+content = """The 'Search and Summarize' era of AI is dead. If you are still using simple RAG, you are building for 2024.
 
 The industry has shifted. We have moved past simple vector databases and basic keyword matching. We are now in the age of Agentic RAG and Graph-based Retrieval.
 
@@ -64,4 +72,37 @@ If you found this roadmap useful and want more deep-dive AI guides, workflows, a
 
 https://bytebuilders.beehiiv.com/subscribe
 
-Follow ByteBuilders
+Follow ByteBuilders"""
+
+# 2. VIRAL IMAGE GUIDELINE (Roadmap Layout)
+image_guideline = """Title: The 2026 Agentic RAG Roadmap
+Subtitle: From Basic Search to Autonomous Knowledge Systems
+Theme: Editorial Minimalist
+Layout: Roadmap / Timeline (Vertical or S-Curve)
+Aspect Ratio: 4:5 (1080x1350)
+
+ON-IMAGE CONTENT:
+Header: The 5 Levels of RAG Mastery
+Level 1: Basic RAG (Vector Search + LLM)
+Level 2: Advanced RAG (Hybrid Search + Re-ranking)
+Level 3: GraphRAG (Knowledge Graphs + Relationship Mapping)
+Level 4: Agentic RAG (Query Rewriting + Tool Use)
+Level 5: Autonomous RAG (Self-Correction + Semantic Caching)
+
+VISUAL HIERARCHY:
+1. Bold Roadmap Title at the top.
+2. A clear visual path (line) connecting the 5 levels.
+3. Each level has a Blue #2563EB circle with a number.
+4. Minimalist outline icons for 'Graph', 'Agent', and 'Database'.
+5. "Follow ByteBuilders" label integrated into the middle-right margin.
+
+GOAL: The "Definitive Resource" Trigger. Makes the user feel this is the 'official' map of the industry.
+AVOID: Cluttered backgrounds, 3D icons, or generic 'robot' imagery."""
+
+with open(f"{path}/content.txt", "w") as f:
+    f.write(content)
+
+with open(f"{path}/image guideline.txt", "w") as f:
+    f.write(image_guideline)
+
+print("Refined Viral Content for 2nd Category (ai-guides) updated.")
