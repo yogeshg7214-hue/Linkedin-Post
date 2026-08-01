@@ -1,4 +1,9 @@
-I spent 30 days stress-testing Claude 4.5’s recursive memory.
+import os
+
+path = "categories/ai-cheatsheets/post1"
+os.makedirs(path, exist_ok=True)
+
+content = """I spent 30 days stress-testing Claude 4.5’s recursive memory.
 
 If you’re still using static XML blocks, you’re missing the breakthrough that makes agents truly autonomous.
 
@@ -49,4 +54,30 @@ Join 100K+ professionals getting the daily signal.
 
 https://bytebuilders.beehiiv.com/subscribe
 
-Follow ByteBuilders
+Follow ByteBuilders"""
+
+image = """Title: The Claude 4.5 Recursive Reasoning Masterclass
+Theme: Editorial Minimalist (2026)
+Layout: Decision Matrix / Technical Blueprint
+Aspect Ratio: 4:5
+
+VISUAL HIERARCHY:
+1. Ultra-Bold Title (Top Center)
+2. Minimalist Grid: 4 Technical Blocks
+3. Block 1: Recursive Logic
+4. Block 2: Latent Steering
+5. Block 3: Context Pruning
+6. Block 4: Token Linking
+7. "Follow ByteBuilders" - Vertical text in the right-side margin (Light Gray, 8pt)
+
+COLORS:
+Background: White (#FFFFFF)
+Accents: Blue (#2563EB) for numbers and icons
+Text: Dark Gray (#374151)
+
+GOAL: A "Save-worthy" technical map for August 2026."""
+
+with open(f"{path}/content.txt", "w") as f:
+    f.write(content)
+with open(f"{path}/image guideline.txt", "w") as f:
+    f.write(image)

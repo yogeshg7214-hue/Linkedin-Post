@@ -1,18 +1,20 @@
-Title: The Claude 4.5 Recursive Reasoning Blueprint
-Theme: Editorial Minimalist (2026 Style)
-Layout: High-Density Decision Matrix
+Title: The Claude 4.5 Recursive Reasoning Masterclass
+Theme: Editorial Minimalist (2026)
+Layout: Decision Matrix / Technical Blueprint
 Aspect Ratio: 4:5
 
-ON-IMAGE CONTENT:
-Header: Claude 4.5 Technical Mastery
-Row 1: Recursive Checkpoints & Latent Steering
-Row 2: Dynamic Pruning & Token-Linking
-Row 3: Verification Loops & DAG Tasking
-Row 4: Agentic Delegation Syntax
-
 VISUAL HIERARCHY:
-1. Bold Header (Blue #2563EB)
-2. Card Matrix (Dark Gray #374151 text on White)
-3. Integrated Margin Label: "Follow ByteBuilders"
+1. Ultra-Bold Title (Top Center)
+2. Minimalist Grid: 4 Technical Blocks
+3. Block 1: Recursive Logic
+4. Block 2: Latent Steering
+5. Block 3: Context Pruning
+6. Block 4: Token Linking
+7. "Follow ByteBuilders" - Vertical text in the right-side margin (Light Gray, 8pt)
 
-GOAL: Save-worthy technical roadmap for 2026.
+COLORS:
+Background: White (#FFFFFF)
+Accents: Blue (#2563EB) for numbers and icons
+Text: Dark Gray (#374151)
+
+GOAL: A "Save-worthy" technical map for August 2026.
