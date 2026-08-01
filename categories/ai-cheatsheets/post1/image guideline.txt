@@ -1,22 +1,20 @@
 Title: The Claude 3.5 Sonnet Technical Masterclass
-Subtitle: High-Density Syntax Guide for AI Power Users
 Theme: Editorial Minimalist
-Layout: Cheat Sheet (High Density)
-Aspect Ratio: 4:5 (1080x1350)
+Layout: High-Density Cheat Sheet
+Aspect Ratio: 4:5
 
 ON-IMAGE CONTENT:
-Header: Claude 3.5 Sonnet Master Cheatsheet
-Section 1: The XML Hierarchy (<context>, <data>, <instructions>)
-Section 2: The Thinking Block (Force CoT reasoning)
-Section 3: Artifacts Trigger (React, Mermaid, SVG patterns)
-Section 4: The 10 Forbidden Buzzwords
-Section 5: API Settings (Temp 0.2 for Logic, 0.8 for Writing)
+Header: Claude 3.5 Sonnet Mastery
+Column 1: XML Syntax (<data>, <context>)
+Column 2: Thinking Logic (Reasoning Loop)
+Column 3: Artifact Triggers (React/SVG)
+Column 4: Precision Controls (Temp 0.2)
+Column 5: Forbidden Word Lists
 
 VISUAL HIERARCHY:
-1. Large Editorial Title at the top center.
-2. 5 Defined Sections with Blue #2563EB headers.
-3. Content in Dark Gray #374151 using premium Sans Serif typography.
-4. "Follow ByteBuilders" label integrated into the middle-right margin divider.
+1. Bold Header
+2. High-Density Card Grid
+3. 'Follow ByteBuilders' light gray margin label
 
-GOAL: The "Save-to-Profile" Trigger. High information density on a white textured background.
-AVOID: Stock people, clutter, gradients, or low-contrast text.
+COLORS: White background, Blue #2563EB, Dark Gray #374151
+GOAL: Maximum Save-Rate Educational Infographic

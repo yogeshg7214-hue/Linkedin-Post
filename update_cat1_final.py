@@ -1,4 +1,9 @@
-I spent 100 hours reverse-engineering Claude 3.5 Sonnet so you don't have to. If you aren't using XML syntax, you're leaving 50% of its intelligence on the table.
+import os
+
+path = "categories/ai-cheatsheets/post1"
+os.makedirs(path, exist_ok=True)
+
+content = """I spent 100 hours reverse-engineering Claude 3.5 Sonnet so you don't have to. If you aren't using XML syntax, you're leaving 50% of its intelligence on the table.
 
 Most people treat Claude like a faster version of ChatGPT. That is their first mistake.
 
@@ -48,4 +53,31 @@ If you're serious about mastering these advanced frameworks, I share deeper tech
 
 https://bytebuilders.beehiiv.com/subscribe
 
-Follow ByteBuilders
+Follow ByteBuilders"""
+
+image = """Title: The Claude 3.5 Sonnet Technical Masterclass
+Theme: Editorial Minimalist
+Layout: High-Density Cheat Sheet
+Aspect Ratio: 4:5
+
+ON-IMAGE CONTENT:
+Header: Claude 3.5 Sonnet Mastery
+Column 1: XML Syntax (<data>, <context>)
+Column 2: Thinking Logic (Reasoning Loop)
+Column 3: Artifact Triggers (React/SVG)
+Column 4: Precision Controls (Temp 0.2)
+Column 5: Forbidden Word Lists
+
+VISUAL HIERARCHY:
+1. Bold Header
+2. High-Density Card Grid
+3. 'Follow ByteBuilders' light gray margin label
+
+COLORS: White background, Blue #2563EB, Dark Gray #374151
+GOAL: Maximum Save-Rate Educational Infographic"""
+
+with open(f"{path}/content.txt", "w") as f:
+    f.write(content)
+
+with open(f"{path}/image guideline.txt", "w") as f:
+    f.write(image)
