@@ -1,26 +1,36 @@
 Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
 
-Theme: Printed sheet on white textured paper, clean light minimal, simple
+Theme: Case Study / Before After Metrics / Comparison Boxes on white textured paper, clean light minimal, simple, high perceived value
 
 Top:
-Big bold title all caps: AI CASE STUDIES
-Subtitle: A support team cut response time by 70 percent.
+Big bold title all caps: AI IN CUSTOMER SUPPORT
+Subtitle: AI in Customer Support
 
 Middle:
-4 cards vertical with Before/After and blockquote explanations
-- Card 1 to 4 with numbered circles 01 to 04 in blue #2563EB
-- Each card: Title, Before WRONG red cross, After CORRECT green check, Formula or Time saved
-- Use icons: check, cross, clock, arrow, briefcase
+Title: SUPPORT TEAM CUT RESPONSE TIME BY 70 PERCENT - Subtitle: A support team cut response time from 6 hrs to 1 hr 48 mins - Left Before: 400 tickets, 6 hrs avg, CSAT dropping red - Right After: 1 hr 48 mins, 70 percent cut, CSAT up 18 percent green - 4 steps: Classify, Draft, Knowledge base, Follow up - Each with metric badge
 
-Bottom:
-Result highlight with numbers - time saved, output increase
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Orange #F59E0B for metrics for numbers and highlights, black text dominant, white background
+
+Information Density: High - metrics plus 4 steps - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Support icons, clock, chart going down, Zendesk Claude ChatGPT Make logos, checkmarks
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Orange #F59E0B for metrics, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Case Study / Before After Metrics / Comparison Boxes - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Case Study / Before After Metrics / Comparison Boxes
 
 Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
 
-Colors: White background, blue accent for numbers, black text, light red #FEF2F2 for wrong, light green #F0FDF4 for correct
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
 
-Visual Elements: Numbered circles, cross/check icons, arrows, official logos where relevant
-
-What to Avoid: Dark backgrounds, heavy graphics, unnecessary clutter
-
-Goal: Save worthy teardown, scan in 7 seconds, high information density
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like case study - printed sheet / playbook / research paper / whiteboard clean

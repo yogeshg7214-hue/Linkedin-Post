@@ -1,26 +1,36 @@
 Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
 
-Theme: Printed sheet on white textured paper, clean light minimal, simple
+Theme: Myth vs Reality Comparison Table / Red vs Green on white textured paper, clean light minimal, simple, high perceived value
 
 Top:
-Big bold title all caps: AI MYTHS VS REALITY
-Subtitle: The job you lose to AI is the one you did not upgrade.
+Big bold title all caps: AI WON'T REPLACE EVERY JOB
+Subtitle: AI Won't Replace Every Job
 
 Middle:
-4 cards vertical with Before/After and blockquote explanations
-- Card 1 to 4 with numbered circles 01 to 04 in blue #2563EB
-- Each card: Title, Before WRONG red cross, After CORRECT green check, Formula or Time saved
-- Use icons: check, cross, clock, arrow, briefcase
+Title: AI WON'T REPLACE EVERY JOB - Subtitle: The job you lose to AI is the one you did not upgrade. - Table 2 columns: Left MYTH red background, Right REALITY green background - Row 1: Myth AI will replace you vs Reality AI replaces repeat steps - Row 2: Myth Need 20 tools vs Reality Need 1 workflow - Row 3: Myth AI output ready vs Reality Draft needs human check - Row 4: Myth Need CS degree vs Reality No code operator wins
 
-Bottom:
-Result highlight with numbers - time saved, output increase
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Red #EF4444 vs Green #10B981 comparison for numbers and highlights, black text dominant, white background
+
+Information Density: Medium - 4 myth reality pairs - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Myth cross icon, Reality check icon, table borders, warning icons
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Red #EF4444 vs Green #10B981 comparison, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Myth vs Reality Comparison Table / Red vs Green - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Myth vs Reality Comparison Table / Red vs Green
 
 Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
 
-Colors: White background, blue accent for numbers, black text, light red #FEF2F2 for wrong, light green #F0FDF4 for correct
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
 
-Visual Elements: Numbered circles, cross/check icons, arrows, official logos where relevant
-
-What to Avoid: Dark backgrounds, heavy graphics, unnecessary clutter
-
-Goal: Save worthy teardown, scan in 7 seconds, high information density
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like myth vs reality comparison table - printed sheet / playbook / research paper / whiteboard clean

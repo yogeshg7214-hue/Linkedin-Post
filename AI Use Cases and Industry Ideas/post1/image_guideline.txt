@@ -1,0 +1,36 @@
+Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
+
+Theme: Before After Comparison / Then vs Now with Metrics on white textured paper, clean light minimal, simple, high perceived value
+
+Top:
+Big bold title all caps: FROM 4 HOURS TO 11 MINUTES PER LEAD
+Subtitle: From 4 hours to 11 minutes per lead
+
+Middle:
+Title: FROM 4 HOURS TO 11 MINUTES PER LEAD - Two columns Left BEFORE red 20 tabs copy manually 4 hours 3 leads, Right AFTER green Perplexity 2 mins Claude 2 mins ChatGPT 2 mins Make 1 min 15 leads - Highlight 3 leads to 15 leads 5x output
+
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Red #FEE2E2 vs Green #DCFCE7 for numbers and highlights, black text dominant, white background
+
+Information Density: High - before after with metrics - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Tabs, notes, clock, email, CRM icons, Perplexity Claude ChatGPT Make logos
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Red #FEE2E2 vs Green #DCFCE7, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Before After Comparison / Then vs Now with Metrics - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Before After Comparison / Then vs Now with Metrics
+
+Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
+
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
+
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like before after comparison - printed sheet / playbook / research paper / whiteboard clean

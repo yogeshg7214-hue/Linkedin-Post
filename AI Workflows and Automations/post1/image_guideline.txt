@@ -1,0 +1,36 @@
+Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
+
+Theme: Flowchart / Playbook Diagram / System Map on white textured paper, clean light minimal, simple, high perceived value
+
+Top:
+Big bold title all caps: IDEA TO POST IN 9 MINUTES
+Subtitle: Idea to post in 9 minutes
+
+Middle:
+Title: IDEA TO POST IN 9 MINUTES - Vertical flow 4 cards with arrows: Trigger Notion, Transcribe Whisper + Clean Claude, Format ChatGPT, Schedule Make + Taplio - Time badges 10 sec 90 sec 2 min 1 min - Bottom Old 2 hrs vs New 9 mins
+
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Purple #7C3AED for numbers and highlights, black text dominant, white background
+
+Information Density: High - flow diagram - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Mic, Notion, Whisper, Claude, ChatGPT, Make, Taplio logos, arrows, clock badges
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Purple #7C3AED, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Flowchart / Playbook Diagram / System Map - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Flowchart / Playbook Diagram / System Map
+
+Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
+
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
+
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like flowchart - printed sheet / playbook / research paper / whiteboard clean

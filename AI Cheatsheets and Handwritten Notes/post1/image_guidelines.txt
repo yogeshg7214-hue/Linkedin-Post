@@ -1,0 +1,36 @@
+Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
+
+Theme: Cheat Sheet / One Page Printable / Code Formulas on white textured paper, clean light minimal, simple, high perceived value
+
+Top:
+Big bold title all caps: PROMPT ENGINEERING CHEAT SHEET
+Subtitle: Prompt Engineering Cheat Sheet
+
+Middle:
+Title: PROMPT ENGINEERING CHEAT SHEET - Subtitle: One page I wish I had 2 years ago - 4 sections: Role plus Goal, Context Block, Format Rule, Check Question - Each with Before After side by side red vs green - Bottom 7 daily prompts list - Print ready
+
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Black #111827 with yellow highlighter #FEF3C7 for numbers and highlights, black text dominant, white background
+
+Information Density: Very high - one page dense cheat sheet - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Numbered circles black, check cross arrows, light bulb, code block mock
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Black #111827 with yellow highlighter #FEF3C7, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Cheat Sheet / One Page Printable / Code Formulas - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Cheat Sheet / One Page Printable / Code Formulas
+
+Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
+
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
+
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like cheat sheet - printed sheet / playbook / research paper / whiteboard clean

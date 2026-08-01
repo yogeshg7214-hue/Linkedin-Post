@@ -1,0 +1,36 @@
+Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
+
+Theme: Cheat Sheet / Before After Comparison on white textured paper, clean light minimal, simple, high perceived value
+
+Top:
+Big bold title all caps: PROMPT FIXES THAT WORK
+Subtitle: Prompt fixes that work
+
+Middle:
+Title: 7 PROMPT FIXES THAT WORK IN ONE TRY - 4 cards with Before WRONG red vs After CORRECT green, prompt in monospace, time saved badges
+
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Orange #F59E0B for numbers and highlights, black text dominant, white background
+
+Information Density: High - 4 fixes with before after - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Cross/check, numbered circles orange, code block
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Orange #F59E0B, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Cheat Sheet / Before After Comparison - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Cheat Sheet / Before After Comparison
+
+Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
+
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
+
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like cheat sheet - printed sheet / playbook / research paper / whiteboard clean

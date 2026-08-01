@@ -1,0 +1,36 @@
+Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
+
+Theme: News Breakdown / Then vs Now Timeline on white textured paper, clean light minimal, simple, high perceived value
+
+Top:
+Big bold title all caps: AI LEARNING WRONG IN 2026
+Subtitle: AI learning wrong in 2026
+
+Middle:
+Title: EVERYONE IS LEARNING AI WRONG IN 2026 - Subtitle: I tested OpenAI Agents for 3 days. What changed. - Two columns Left 2023 way gray, Right 2026 way yellow, arrow THEN vs NOW, Box How I use Agents today 4 steps checklist
+
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Dark Blue #1E3A8A and yellow highlight for numbers and highlights, black text dominant, white background
+
+Information Density: Medium - timeline plus 4 steps - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Calendar, rocket, book, target icons, OpenAI logo, checkmarks
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Dark Blue #1E3A8A and yellow highlight, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses News Breakdown / Then vs Now Timeline - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: News Breakdown / Then vs Now Timeline
+
+Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
+
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
+
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like news breakdown - printed sheet / playbook / research paper / whiteboard clean

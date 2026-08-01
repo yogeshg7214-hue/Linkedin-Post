@@ -1,0 +1,36 @@
+Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
+
+Theme: Top List / Card Grid with Logos and Time Saved on white textured paper, clean light minimal, simple, high perceived value
+
+Top:
+Big bold title all caps: TOP 9 TOOLS AUDIT
+Subtitle: Top 9 tools audit
+
+Middle:
+Title: TOP 9 AI TOOLS THAT SAVE ME 20+ HOURS - Grid 3x3 with 9 cards, each with numbered circle blue, official logo, tool name bold, one line benefit, time badge
+
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Blue #2563EB for numbers and highlights, black text dominant, white background
+
+Information Density: Very high - 9 tools with time saved - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Perplexity Claude ChatGPT Make Taplio Notion etc logos, clock, check
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Blue #2563EB, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Top List / Card Grid with Logos and Time Saved - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Top List / Card Grid with Logos and Time Saved
+
+Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
+
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
+
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like top list - printed sheet / playbook / research paper / whiteboard clean

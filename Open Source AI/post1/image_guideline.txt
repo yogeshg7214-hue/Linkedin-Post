@@ -1,26 +1,36 @@
 Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
 
-Theme: Printed sheet on white textured paper, clean light minimal, simple
+Theme: Beginner Guide / 4 Steps with Terminal Mock / Code Snippet on white textured paper, clean light minimal, simple, high perceived value
 
 Top:
-Big bold title all caps: OPEN SOURCE AI
-Subtitle: A free AI model runs on your laptop today.
+Big bold title all caps: OLLAMA FOR BEGINNERS
+Subtitle: Ollama for Beginners
 
 Middle:
-4 cards vertical with Before/After and blockquote explanations
-- Card 1 to 4 with numbered circles 01 to 04 in blue #2563EB
-- Each card: Title, Before WRONG red cross, After CORRECT green check, Formula or Time saved
-- Use icons: check, cross, clock, arrow, briefcase
+Title: OLLAMA FOR BEGINNERS - Subtitle: A free AI model runs on your laptop today. - 4 steps numbered: Install Ollama one click, Run ollama run llama3, Use with Open WebUI, Try small 7B model first - Each step with terminal code block mock - Time badges 5 mins, 2 sec response - Bottom private docs stay private highlight
 
-Bottom:
-Result highlight with numbers - time saved, output increase
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Black #111827 for terminal for numbers and highlights, black text dominant, white background
+
+Information Density: Medium - 4 steps with code blocks - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Terminal window mock, Ollama logo, laptop icon, lock private icon, checkmarks
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Black #111827 for terminal, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Beginner Guide / 4 Steps with Terminal Mock / Code Snippet - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Beginner Guide / 4 Steps with Terminal Mock / Code Snippet
 
 Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
 
-Colors: White background, blue accent for numbers, black text, light red #FEF2F2 for wrong, light green #F0FDF4 for correct
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
 
-Visual Elements: Numbered circles, cross/check icons, arrows, official logos where relevant
-
-What to Avoid: Dark backgrounds, heavy graphics, unnecessary clutter
-
-Goal: Save worthy teardown, scan in 7 seconds, high information density
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like beginner guide - printed sheet / playbook / research paper / whiteboard clean

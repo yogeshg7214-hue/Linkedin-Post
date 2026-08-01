@@ -1,26 +1,36 @@
 Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
 
-Theme: Printed sheet on white textured paper, clean light minimal, simple
+Theme: Itinerary Cards / Before After Time Comparison / Resource List on white textured paper, clean light minimal, simple, high perceived value
 
 Top:
-Big bold title all caps: AI FOR PERSONAL LIFE
-Subtitle: Trip planning takes six hours. It should take six minutes.
+Big bold title all caps: AI FOR TRIP PLANNING
+Subtitle: AI for Trip Planning
 
 Middle:
-4 cards vertical with Before/After and blockquote explanations
-- Card 1 to 4 with numbered circles 01 to 04 in blue #2563EB
-- Each card: Title, Before WRONG red cross, After CORRECT green check, Formula or Time saved
-- Use icons: check, cross, clock, arrow, briefcase
+Title: TRIP PLANNING TAKES SIX HOURS - Subtitle: It should take six minutes. - Before: 20 tabs flights hotels things to do food weather map 6 hours - After: 4 steps Gather with Perplexity 2 mins, Compare with Claude 1 min, Itinerary with ChatGPT that fits style, Log and share with Make 1 min - Total 6 mins vs 6 hours bar - Stack Perplexity Claude ChatGPT Make Google Docs
 
-Bottom:
-Result highlight with numbers - time saved, output increase
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Green #10B981 for travel for numbers and highlights, black text dominant, white background
+
+Information Density: High - trip planning with time comparison - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Plane, hotel, map pin, food, weather icons, Perplexity Claude ChatGPT Make Google Docs logos, clock comparison
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Green #10B981 for travel, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Itinerary Cards / Before After Time Comparison / Resource List - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Itinerary Cards / Before After Time Comparison / Resource List
 
 Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
 
-Colors: White background, blue accent for numbers, black text, light red #FEF2F2 for wrong, light green #F0FDF4 for correct
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
 
-Visual Elements: Numbered circles, cross/check icons, arrows, official logos where relevant
-
-What to Avoid: Dark backgrounds, heavy graphics, unnecessary clutter
-
-Goal: Save worthy teardown, scan in 7 seconds, high information density
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like itinerary cards - printed sheet / playbook / research paper / whiteboard clean

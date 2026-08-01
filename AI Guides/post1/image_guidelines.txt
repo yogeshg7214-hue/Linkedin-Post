@@ -1,26 +1,36 @@
 Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
 
-Theme: Printed sheet on white textured paper, clean light minimal, simple
+Theme: Playbook / Research Paper on white textured paper, clean light minimal, simple, high perceived value
 
 Top:
-Big bold title all caps: AI GUIDES
-Subtitle: A chatbot answers. An agent acts.
+Big bold title all caps: ULTIMATE GUIDE TO AI AGENTS
+Subtitle: Ultimate Guide to AI Agents
 
 Middle:
-4 cards vertical with Before/After and blockquote explanations
-- Card 1 to 4 with numbered circles 01 to 04 in blue #2563EB
-- Each card: Title, Before WRONG red cross, After CORRECT green check, Formula or Time saved
-- Use icons: check, cross, clock, arrow, briefcase
+Title: ULTIMATE GUIDE TO AI AGENTS - Subtitle: A chatbot answers. An agent acts. - Separator - Section 1: What is Agent vs Chatbot (comparison table Left Chatbot answers, Right Agent acts) - Section 2: 4 Things That Make Agents Work (cards with icons: Goal, Memory, Tools, Reflection) - Section 3: Stack (Claude, Make, Perplexity, Airtable logos) - Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
 
-Bottom:
-Result highlight with numbers - time saved, output increase
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Blue #2563EB for numbers and highlights, black text dominant, white background
+
+Information Density: High - 4 core concepts + stack + flow, save worthy guide - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Icons: robot, goal target, brain memory, tools gear, reflection loop, flowchart arrows, official logos
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Blue #2563EB, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Playbook / Research Paper - 5 sections with flowchart - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Playbook / Research Paper - 5 sections with flowchart
 
 Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
 
-Colors: White background, blue accent for numbers, black text, light red #FEF2F2 for wrong, light green #F0FDF4 for correct
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
 
-Visual Elements: Numbered circles, cross/check icons, arrows, official logos where relevant
-
-What to Avoid: Dark backgrounds, heavy graphics, unnecessary clutter
-
-Goal: Save worthy teardown, scan in 7 seconds, high information density
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like playbook - printed sheet / playbook / research paper / whiteboard clean

@@ -1,0 +1,36 @@
+Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
+
+Theme: Resource List / Card Grid with Official Covers and Logos on white textured paper, clean light minimal, simple, high perceived value
+
+Top:
+Big bold title all caps: 10 FREE AI COURSES
+Subtitle: 10 Free AI Courses
+
+Middle:
+Title: 10 FREE AI COURSES I ACTUALLY FINISHED - Subtitle: From Google, Microsoft, OpenAI, IBM - Grid 2x5 =10 cards with official provider logo, course cover thumbnail, title, one line benefit, duration badge, FREE green tag
+
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Green #10B981 for FREE for numbers and highlights, black text dominant, white background
+
+Information Density: Very high - 10 courses with covers - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Google Microsoft OpenAI IBM AWS logos, course covers, clock, certificate icons
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Green #10B981 for FREE, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Resource List / Card Grid with Official Covers and Logos - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Resource List / Card Grid with Official Covers and Logos
+
+Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
+
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
+
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like resource list - printed sheet / playbook / research paper / whiteboard clean

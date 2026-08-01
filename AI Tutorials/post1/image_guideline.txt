@@ -1,26 +1,36 @@
 Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
 
-Theme: Printed sheet on white textured paper, clean light minimal, simple
+Theme: Step-by-Step Tutorial on white textured paper, clean light minimal, simple, high perceived value
 
 Top:
-Big bold title all caps: AI TUTORIALS
-Subtitle: Your inbox eats two hours a day.
+Big bold title all caps: AUTOMATE GMAIL WITH AI
+Subtitle: Automate Gmail with AI
 
 Middle:
-4 cards vertical with Before/After and blockquote explanations
-- Card 1 to 4 with numbered circles 01 to 04 in blue #2563EB
-- Each card: Title, Before WRONG red cross, After CORRECT green check, Formula or Time saved
-- Use icons: check, cross, clock, arrow, briefcase
+Title: AUTOMATE GMAIL WITH AI - Subtitle: Your inbox eats two hours a day. - Separator - Step 1: Label (Gmail filter icon) - Step 2: Extract (Make + Claude logos) - Step 3: Draft (ChatGPT) - Step 4: Follow up (Airtable + Slack) - Each step card with Before 20 tabs vs After auto label - Footer: Follow ByteBuilders
 
-Bottom:
-Result highlight with numbers - time saved, output increase
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Red #EF4444 for Gmail for numbers and highlights, black text dominant, white background
+
+Information Density: Medium - 4 steps with before after, time saved badges - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Gmail logo, Make logo, Claude logo, ChatGPT logo, Airtable logo, Slack logo, checkmarks, clock icons
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Red #EF4444 for Gmail, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Step-by-Step Tutorial - Numbered Steps with Screenshots - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Step-by-Step Tutorial - Numbered Steps with Screenshots
 
 Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
 
-Colors: White background, blue accent for numbers, black text, light red #FEF2F2 for wrong, light green #F0FDF4 for correct
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
 
-Visual Elements: Numbered circles, cross/check icons, arrows, official logos where relevant
-
-What to Avoid: Dark backgrounds, heavy graphics, unnecessary clutter
-
-Goal: Save worthy teardown, scan in 7 seconds, high information density
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like step-by-step tutorial - numbered steps with screenshots - printed sheet / playbook / research paper / whiteboard clean

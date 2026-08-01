@@ -1,26 +1,36 @@
 Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
 
-Theme: Printed sheet on white textured paper, clean light minimal, simple
+Theme: Definition + Chatbot vs Agent Comparison + Flowchart on white textured paper, clean light minimal, simple, high perceived value
 
 Top:
-Big bold title all caps: AI AGENTS
-Subtitle: A chatbot answers. An agent acts.
+Big bold title all caps: WHAT ARE AI AGENTS?
+Subtitle: What Are AI Agents?
 
 Middle:
-4 cards vertical with Before/After and blockquote explanations
-- Card 1 to 4 with numbered circles 01 to 04 in blue #2563EB
-- Each card: Title, Before WRONG red cross, After CORRECT green check, Formula or Time saved
-- Use icons: check, cross, clock, arrow, briefcase
+Title: WHAT ARE AI AGENTS? - Subtitle: A chatbot answers. An agent acts. - Comparison Box: Left Chatbot answers question and stops, Right Agent takes goal and finishes it - 4 Things That Make Agents Work cards: Goal not prompt, Memory not context, Tools not text, Reflection not execution - Stack Claude Make Perplexity Airtable
 
-Bottom:
-Result highlight with numbers - time saved, output increase
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Blue #2563EB for agents for numbers and highlights, black text dominant, white background
+
+Information Density: High - definition plus 4 concepts plus stack - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Robot vs Agent icons, chatbot bubble vs agent doing tasks, tool icons, memory brain, reflection loop
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Blue #2563EB for agents, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Definition + Chatbot vs Agent Comparison + Flowchart - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Definition + Chatbot vs Agent Comparison + Flowchart
 
 Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
 
-Colors: White background, blue accent for numbers, black text, light red #FEF2F2 for wrong, light green #F0FDF4 for correct
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
 
-Visual Elements: Numbered circles, cross/check icons, arrows, official logos where relevant
-
-What to Avoid: Dark backgrounds, heavy graphics, unnecessary clutter
-
-Goal: Save worthy teardown, scan in 7 seconds, high information density
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like definition + chatbot vs agent comparison + flowchart - printed sheet / playbook / research paper / whiteboard clean

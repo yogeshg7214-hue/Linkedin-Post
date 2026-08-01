@@ -1,26 +1,36 @@
 Aspect Ratio: 4:5 portrait 1080x1350, also works as 3:4
 
-Theme: Printed sheet on white textured paper, clean light minimal, simple
+Theme: Time Saved Cards / Before After / Checklist on white textured paper, clean light minimal, simple, high perceived value
 
 Top:
-Big bold title all caps: AI PRODUCTIVITY HACKS
-Subtitle: Ten hours a week is hiding in your routine.
+Big bold title all caps: SAVE 10 HOURS WEEKLY WITH AI
+Subtitle: Save 10 Hours Weekly with AI
 
 Middle:
-4 cards vertical with Before/After and blockquote explanations
-- Card 1 to 4 with numbered circles 01 to 04 in blue #2563EB
-- Each card: Title, Before WRONG red cross, After CORRECT green check, Formula or Time saved
-- Use icons: check, cross, clock, arrow, briefcase
+Title: SAVE 10 HOURS WEEKLY WITH AI - Subtitle: Ten hours a week is hiding in your routine. - 4 cards with time badges: Perplexity Research 3 hrs, Claude Docs 2.5 hrs, Tactiq Meetings 3 hrs, Make Content 9 mins vs 2 hrs - Each card Before 20 tabs vs After auto - Bottom total 10 hrs 45 mins saved bar
 
-Bottom:
-Result highlight with numbers - time saved, output increase
+Visual Hierarchy:
+Headline very large bold all caps, subtitle medium, bold section titles, small description 10-11pt, minimal paragraphs, mostly bullets
+Accent color Green #10B981 for time saved for numbers and highlights, black text dominant, white background
+
+Information Density: High - 4 hacks with time saved numbers - packs lots of info per square inch, goal is save, encourage bookmark
+
+Visual Elements:
+Clock icons, Perplexity Claude Tactiq Make logos, checkmarks, time badges, rocket
+- Numbered circles 01 to 04 or 1 to 9, checkmarks, arrows, comparison boxes
+
+Color Scheme:
+White background dominant, one accent color Green #10B981 for time saved, black text, light gray borders, minimal gradients
+
+Psychological Pattern:
+Uses Time Saved Cards / Before After / Checklist - curiosity gap + high value + scan friendly
+
+Scanability: 5 to 10 seconds to understand via headlines and cards, details on zoom
+
+Layout: Time Saved Cards / Before After / Checklist
 
 Footer: Follow ByteBuilders for more AI prompt, AI guide and workflow
 
-Colors: White background, blue accent for numbers, black text, light red #FEF2F2 for wrong, light green #F0FDF4 for correct
+What to Avoid: Dark backgrounds, heavy graphics, unnecessary visual clutter, more than one accent color, more than 2 fonts
 
-Visual Elements: Numbered circles, cross/check icons, arrows, official logos where relevant
-
-What to Avoid: Dark backgrounds, heavy graphics, unnecessary clutter
-
-Goal: Save worthy teardown, scan in 7 seconds, high information density
+Goal: Save worthy, share worthy, portrait 4:5 optimized for LinkedIn and Instagram, looks like time saved cards - printed sheet / playbook / research paper / whiteboard clean
