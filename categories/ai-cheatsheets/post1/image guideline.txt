@@ -1,39 +1,22 @@
-Title: The Ultimate Strategy for Ai Cheatsheets
-Subtitle: A ByteBuilders Content OS Exclusive
+Title: The Ultimate Claude 3.5 Sonnet Cheatsheet
+Subtitle: High-Density Syntax Guide for AI Power Users
 Theme: Editorial Minimalist
-Layout: Card Grid
-Aspect Ratio: 4:5
+Layout: Cheat Sheet (High Density)
+Aspect Ratio: 4:5 (1080x1350)
 
 ON-IMAGE CONTENT:
-Card 1: Insight 1: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-cheatsheets...
-
-Card 2: Insight 2: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-cheatsheets...
-
-Card 3: Insight 3: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-cheatsheets...
-
-Card 4: Insight 4: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-cheatsheets...
-
-Card 5: Insight 5: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-cheatsheets...
-
-Card 6: Insight 6: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-cheatsheets...
-
-Card 7: Insight 7: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-cheatsheets...
-
-Card 8: Insight 8: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-cheatsheets...
+Header: Claude 3.5 Sonnet Master Cheatsheet
+Section 1: The XML Hierarchy (<context>, <data>, <instructions>)
+Section 2: The Thinking Block (Force CoT reasoning)
+Section 3: Artifacts Trigger (React, Mermaid, SVG patterns)
+Section 4: The 10 Forbidden Buzzwords
+Section 5: API Settings (Temp 0.2 for Logic, 0.8 for Writing)
 
 VISUAL HIERARCHY:
-1. Bold Title
-2. Sub-Header
-3. High-Density Card Grid
-4. Gray 'Follow ByteBuilders' side-margin label
+1. Large Title at the top.
+2. 5 Main Columns/Sections with Blue #2563EB headers.
+3. Content in Dark Gray #374151.
+4. "Follow ByteBuilders" label integrated vertically in the middle-left margin.
 
-COLORS: White background, #2563EB Blue circles, #374151 Dark Gray text
-AVOID: Clutter, stock photos, loud gradients.
+GOAL: The "Save-to-Profile" Trigger. High information density that makes the user feel they MUST save it to remember it all.
+AVOID: Empty space, large icons, stock images, or bright colors.
