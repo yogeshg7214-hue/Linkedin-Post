@@ -1,39 +1,27 @@
-Title: The Ultimate Strategy for Ai Tutorials
-Subtitle: A ByteBuilders Content OS Exclusive
+Title: The 10-Step AI Agent Blueprint
+Subtitle: Build Your First Autonomous Research Crew
 Theme: Editorial Minimalist
-Layout: Card Grid
-Aspect Ratio: 4:5
+Layout: Checklist / Step-by-Step (Vertical)
+Aspect Ratio: 4:5 (1080x1350)
 
 ON-IMAGE CONTENT:
-Card 1: Insight 1: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-tutorials. ...
-
-Card 2: Insight 2: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-tutorials. ...
-
-Card 3: Insight 3: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-tutorials. ...
-
-Card 4: Insight 4: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-tutorials. ...
-
-Card 5: Insight 5: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-tutorials. ...
-
-Card 6: Insight 6: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-tutorials. ...
-
-Card 7: Insight 7: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-tutorials. ...
-
-Card 8: Insight 8: Technical Mastery
-- This is the actual, deep-dive technical implementation detail for ai-tutorials. ...
+Header: 10 Steps to Build an AI Agent
+1. Define Roles (Researcher, Writer, QA)
+2. Select LLM (Claude 3.5 Sonnet)
+3. Set API Keys (Anthropic/OpenAI)
+4. Equip Tools (Search, PDF, SQL)
+5. Structure Tasks (Atomic Inputs)
+6. Choose Flow (Sequential vs. Manager)
+7. Enable Memory (Vector Store)
+8. Set Constraints (Max Iterations)
+9. Test Locally (Ollama/Llama 3)
+10. Deploy (FastAPI/Streamlit)
 
 VISUAL HIERARCHY:
-1. Bold Title
-2. Sub-Header
-3. High-Density Card Grid
-4. Gray 'Follow ByteBuilders' side-margin label
+1. Bold Header: 'The AI Agent Checklist'
+2. Numbered list with Blue #2563EB checkmarks.
+3. Clean Dark Gray #374151 text on white background.
+4. "Follow ByteBuilders" label integrated vertically in the middle-left margin.
 
-COLORS: White background, #2563EB Blue circles, #374151 Dark Gray text
-AVOID: Clutter, stock photos, loud gradients.
+GOAL: The "Execution" Trigger. Users save this because it acts as a quick-reference guide while they are coding.
+AVOID: Bright gradients, messy lines, or overlapping text.

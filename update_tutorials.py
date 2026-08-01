@@ -1,4 +1,12 @@
-You don't need a $200k/year developer to build a custom AI agent workforce anymore.
+import os
+
+# Target: 3rd Category (ai-tutorials)
+cat = "ai-tutorials"
+path = f"categories/{cat}/post1"
+os.makedirs(path, exist_ok=True)
+
+# 1. VIRAL POST CONTENT (Step-by-Step Execution Pattern)
+content = """You don't need a $200k/year developer to build a custom AI agent workforce anymore.
 
 In 2026, the 'Chat' interface is becoming the secondary way we interact with AI. The primary way? Autonomous agents that run in the background while you sleep.
 
@@ -66,4 +74,41 @@ If you found this tutorial useful and want more AI resources, tutorials, prompts
 
 https://bytebuilders.beehiiv.com/subscribe
 
-Follow ByteBuilders
+Follow ByteBuilders"""
+
+# 2. VIRAL IMAGE GUIDELINE (Checklist Pattern)
+image_guideline = """Title: The 10-Step AI Agent Blueprint
+Subtitle: Build Your First Autonomous Research Crew
+Theme: Editorial Minimalist
+Layout: Checklist / Step-by-Step (Vertical)
+Aspect Ratio: 4:5 (1080x1350)
+
+ON-IMAGE CONTENT:
+Header: 10 Steps to Build an AI Agent
+1. Define Roles (Researcher, Writer, QA)
+2. Select LLM (Claude 3.5 Sonnet)
+3. Set API Keys (Anthropic/OpenAI)
+4. Equip Tools (Search, PDF, SQL)
+5. Structure Tasks (Atomic Inputs)
+6. Choose Flow (Sequential vs. Manager)
+7. Enable Memory (Vector Store)
+8. Set Constraints (Max Iterations)
+9. Test Locally (Ollama/Llama 3)
+10. Deploy (FastAPI/Streamlit)
+
+VISUAL HIERARCHY:
+1. Bold Header: 'The AI Agent Checklist'
+2. Numbered list with Blue #2563EB checkmarks.
+3. Clean Dark Gray #374151 text on white background.
+4. "Follow ByteBuilders" label integrated vertically in the middle-left margin.
+
+GOAL: The "Execution" Trigger. Users save this because it acts as a quick-reference guide while they are coding.
+AVOID: Bright gradients, messy lines, or overlapping text."""
+
+with open(f"{path}/content.txt", "w") as f:
+    f.write(content)
+
+with open(f"{path}/image guideline.txt", "w") as f:
+    f.write(image_guideline)
+
+print("Refined Viral Content for 3rd Category (ai-tutorials) updated.")
