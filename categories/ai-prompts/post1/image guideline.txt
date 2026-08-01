@@ -1,0 +1,19 @@
+Title: The 'Reasoning Loop' Prompt: Getting LLMs to Self-Correct
+Theme: Editorial Minimalist
+Layout: Decision Matrix
+Aspect Ratio: 4:5
+
+ON-IMAGE CONTENT:
+Header: The 'Reasoning Loop' Prompt: Getting LLMs to Self-Correct
+Card 1: 1. Define the 'Thinking' Space - Force the model to use a scratchpad or <thinking> ...
+Card 2: 2. The Counter-Argument Trigger - Instruct the AI to find 3 flaws in its own initial...
+Card 3: 3. Variable Injection - Use placeholders like [CONTEXT] or [DATA] to keep ...
+Card 4: 4. The Persona Anchor - Don't just say 'Act as a marketer.' Say 'Act as a ...
+Card 5: 5. Few-Shot Demonstration - Provide 3 examples of perfect output. The model's ...
+Card 6: 6. Negative Constraints - Explicitly list what NOT to include. 'Avoid buzzwo...
+
+VISUAL HIERARCHY:
+Title (Large) -> Subtitle (Medium) -> Cards (Grid) -> 'Follow ByteBuilders' (Margin)
+
+COLORS: White (#FFFFFF), Blue (#2563EB), Dark Gray (#374151)
+GOAL: Educational Save-Trigger

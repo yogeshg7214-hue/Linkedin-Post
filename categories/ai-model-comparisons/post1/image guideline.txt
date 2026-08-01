@@ -1,0 +1,19 @@
+Title: Claude 3.5 Sonnet vs GPT-4o: The 2026 Developer Showdown
+Theme: Editorial Minimalist
+Layout: Comparison
+Aspect Ratio: 3:4
+
+ON-IMAGE CONTENT:
+Header: Claude 3.5 Sonnet vs GPT-4o: The 2026 Developer Showdown
+Card 1: 1. Reasoning Depth - Sonnet 3.5 consistently follows complex multi-file...
+Card 2: 2. The UI Advantage - Artifacts in Claude changed the game. Seeing your ...
+Card 3: 3. Multimodal Precision - GPT-4o still leads in vision-to-data tasks. If you...
+Card 4: 4. Token Efficiency - OpenAI's latest optimizations make 4o faster for s...
+Card 5: 5. API Reliability - Developers are finding OpenAI's API more stable fo...
+Card 6: 6. Creative Nuance - In non-technical writing, Claude has a 'human' war...
+
+VISUAL HIERARCHY:
+Title (Large) -> Subtitle (Medium) -> Cards (Grid) -> 'Follow ByteBuilders' (Margin)
+
+COLORS: White (#FFFFFF), Blue (#2563EB), Dark Gray (#374151)
+GOAL: Educational Save-Trigger
