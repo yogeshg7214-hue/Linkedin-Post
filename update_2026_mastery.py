@@ -1,4 +1,9 @@
-I spent the last 30 days stress-testing Claude 4.5’s recursive memory so you don't have to. If you’re still using static XML blocks, you’re missing the breakthrough that makes agents truly autonomous.
+import os
+
+path = "categories/ai-cheatsheets/post1"
+os.makedirs(path, exist_ok=True)
+
+content = """I spent the last 30 days stress-testing Claude 4.5’s recursive memory so you don't have to. If you’re still using static XML blocks, you’re missing the breakthrough that makes agents truly autonomous.
 
 The architecture of LLMs has shifted fundamentally. In 2026, we are no longer managing tokens; we are managing Latent Space Steering. If you aren't using Active Contextual Awareness, you are leaving 60% of the model’s reasoning potential on the table.
 
@@ -46,4 +51,28 @@ If you're serious about staying at the absolute edge of AI development, I share 
 
 https://bytebuilders.beehiiv.com/subscribe
 
-Follow ByteBuilders
+Follow ByteBuilders"""
+
+image = """Title: The Claude 4.5 Recursive Reasoning Blueprint
+Theme: Editorial Minimalist (2026 Style)
+Layout: High-Density Decision Matrix
+Aspect Ratio: 4:5
+
+ON-IMAGE CONTENT:
+Header: Claude 4.5 Technical Mastery
+Row 1: Recursive Checkpoints & Latent Steering
+Row 2: Dynamic Pruning & Token-Linking
+Row 3: Verification Loops & DAG Tasking
+Row 4: Agentic Delegation Syntax
+
+VISUAL HIERARCHY:
+1. Bold Header (Blue #2563EB)
+2. Card Matrix (Dark Gray #374151 text on White)
+3. Integrated Margin Label: "Follow ByteBuilders"
+
+GOAL: Save-worthy technical roadmap for 2026."""
+
+with open(f"{path}/content.txt", "w") as f:
+    f.write(content)
+with open(f"{path}/image guideline.txt", "w") as f:
+    f.write(image)
