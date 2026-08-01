@@ -1,23 +1,22 @@
 Title: The 2026 Agentic RAG Roadmap
-Subtitle: From Basic Search to Autonomous Knowledge Systems
 Theme: Editorial Minimalist
-Layout: Roadmap / Timeline (Vertical or S-Curve)
-Aspect Ratio: 4:5 (1080x1350)
+Layout: Vertical Roadmap / S-Curve
+Aspect Ratio: 4:5
 
 ON-IMAGE CONTENT:
 Header: The 5 Levels of RAG Mastery
-Level 1: Basic RAG (Vector Search + LLM)
-Level 2: Advanced RAG (Hybrid Search + Re-ranking)
-Level 3: GraphRAG (Knowledge Graphs + Relationship Mapping)
-Level 4: Agentic RAG (Query Rewriting + Tool Use)
-Level 5: Autonomous RAG (Self-Correction + Semantic Caching)
+Level 1: Basic Vector Search (Legacy)
+Level 2: Hybrid Retrieval & Re-ranking
+Level 3: GraphRAG & Entity Mapping
+Level 4: Agentic Query Expansion
+Level 5: Autonomous Self-Correcting RAG
 
 VISUAL HIERARCHY:
-1. Bold Roadmap Title at the top.
-2. A clear visual path (line) connecting the 5 levels.
-3. Each level has a Blue #2563EB circle with a number.
-4. Minimalist outline icons for 'Graph', 'Agent', and 'Database'.
-5. "Follow ByteBuilders" label integrated into the middle-right margin.
+1. Bold Roadmap Title (Blue #2563EB)
+2. S-Curve visual path connecting levels
+3. Numbered Blue Circles for each stage
+4. Minimalist icons for 'Graph', 'Agent', and 'Database'
+5. "Follow ByteBuilders" vertical margin label (Light Gray, 8pt)
 
-GOAL: The "Definitive Resource" Trigger. Makes the user feel this is the 'official' map of the industry.
-AVOID: Cluttered backgrounds, 3D icons, or generic 'robot' imagery.
+COLORS: White (#FFFFFF) background, Dark Gray (#374151) text.
+GOAL: High-authority industry roadmap to trigger saves.

@@ -1,4 +1,9 @@
-90% of engineers are building RAG systems that will be obsolete by Q4.
+import os
+
+path = "categories/ai-guides/post1"
+os.makedirs(path, exist_ok=True)
+
+content = """90% of engineers are building RAG systems that will be obsolete by Q4.
 
 In 2026, the 'Search and Summarize' era is officially dead. We have moved past simple vector databases and basic keyword matching.
 
@@ -59,4 +64,32 @@ Join 100K+ professionals getting the daily signal.
 
 https://bytebuilders.beehiiv.com/subscribe
 
-Follow ByteBuilders
+Follow ByteBuilders"""
+
+image = """Title: The 2026 Agentic RAG Roadmap
+Theme: Editorial Minimalist
+Layout: Vertical Roadmap / S-Curve
+Aspect Ratio: 4:5
+
+ON-IMAGE CONTENT:
+Header: The 5 Levels of RAG Mastery
+Level 1: Basic Vector Search (Legacy)
+Level 2: Hybrid Retrieval & Re-ranking
+Level 3: GraphRAG & Entity Mapping
+Level 4: Agentic Query Expansion
+Level 5: Autonomous Self-Correcting RAG
+
+VISUAL HIERARCHY:
+1. Bold Roadmap Title (Blue #2563EB)
+2. S-Curve visual path connecting levels
+3. Numbered Blue Circles for each stage
+4. Minimalist icons for 'Graph', 'Agent', and 'Database'
+5. "Follow ByteBuilders" vertical margin label (Light Gray, 8pt)
+
+COLORS: White (#FFFFFF) background, Dark Gray (#374151) text.
+GOAL: High-authority industry roadmap to trigger saves."""
+
+with open(f"{path}/content.txt", "w") as f:
+    f.write(content)
+with open(f"{path}/image guideline.txt", "w") as f:
+    f.write(image)
