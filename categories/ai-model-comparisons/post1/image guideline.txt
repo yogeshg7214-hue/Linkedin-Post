@@ -1,19 +1,39 @@
 Title: Claude 3.5 Sonnet vs GPT-4o: The 2026 Developer Showdown
+Subtitle: A ByteBuilders Content OS Exclusive
 Theme: Editorial Minimalist
 Layout: Comparison
 Aspect Ratio: 3:4
 
 ON-IMAGE CONTENT:
-Header: Claude 3.5 Sonnet vs GPT-4o: The 2026 Developer Showdown
-Card 1: 1. Reasoning Depth - Sonnet 3.5 consistently follows complex multi-file...
-Card 2: 2. The UI Advantage - Artifacts in Claude changed the game. Seeing your ...
-Card 3: 3. Multimodal Precision - GPT-4o still leads in vision-to-data tasks. If you...
-Card 4: 4. Token Efficiency - OpenAI's latest optimizations make 4o faster for s...
-Card 5: 5. API Reliability - Developers are finding OpenAI's API more stable fo...
-Card 6: 6. Creative Nuance - In non-technical writing, Claude has a 'human' war...
+Card 1: 1. Architectural Reasoning
+- Sonnet 3.5 consistently follows complex multi-file instructions better than 4o. ...
+
+Card 2: 2. Rendered Artifacts
+- Claude's Artifacts changed the game for front-end dev. Seeing your code render i...
+
+Card 3: 3. Multimodal Precision
+- GPT-4o still leads in vision-to-data tasks. If you need to turn a complex handwr...
+
+Card 4: 4. Token Velocity
+- OpenAI's latest optimizations make 4o faster for short, snappy bursts. But for l...
+
+Card 5: 5. API Rate Limits
+- Developers are finding OpenAI's API more stable for high-concurrency apps. Anthr...
+
+Card 6: 6. Creative Human Tone
+- In non-technical writing, Claude has a 'human' warmth that GPT-4o often lacks, w...
+
+Card 7: 7. Instruction Adherence
+- Claude respects system prompts with extreme rigor. If you tell it 'never use emo...
+
+Card 8: 8. Middle-of-Doc Logic
+- Working with 200k+ tokens? Claude handles the 'needle in a haystack' problem wit...
 
 VISUAL HIERARCHY:
-Title (Large) -> Subtitle (Medium) -> Cards (Grid) -> 'Follow ByteBuilders' (Margin)
+1. Bold Title
+2. Sub-Header
+3. High-Density Card Grid
+4. Gray 'Follow ByteBuilders' side-margin label
 
-COLORS: White (#FFFFFF), Blue (#2563EB), Dark Gray (#374151)
-GOAL: Educational Save-Trigger
+COLORS: White background, #2563EB Blue circles, #374151 Dark Gray text
+AVOID: Clutter, stock photos, loud gradients.

@@ -1,19 +1,39 @@
 Title: The 'Reasoning Loop' Prompt: Getting LLMs to Self-Correct
+Subtitle: A ByteBuilders Content OS Exclusive
 Theme: Editorial Minimalist
 Layout: Decision Matrix
 Aspect Ratio: 4:5
 
 ON-IMAGE CONTENT:
-Header: The 'Reasoning Loop' Prompt: Getting LLMs to Self-Correct
-Card 1: 1. Define the 'Thinking' Space - Force the model to use a scratchpad or <thinking> ...
-Card 2: 2. The Counter-Argument Trigger - Instruct the AI to find 3 flaws in its own initial...
-Card 3: 3. Variable Injection - Use placeholders like [CONTEXT] or [DATA] to keep ...
-Card 4: 4. The Persona Anchor - Don't just say 'Act as a marketer.' Say 'Act as a ...
-Card 5: 5. Few-Shot Demonstration - Provide 3 examples of perfect output. The model's ...
-Card 6: 6. Negative Constraints - Explicitly list what NOT to include. 'Avoid buzzwo...
+Card 1: 1. Define the 'Thinking' Space
+- Force the model to use a scratchpad or <thinking> tags. This prevents the model ...
+
+Card 2: 2. The Counter-Argument Trigger
+- Instruct the AI to find 3 flaws in its own initial reasoning before finalizing t...
+
+Card 3: 3. Variable Injection
+- Use placeholders like [CONTEXT] or [DATA] to keep your prompts modular. This all...
+
+Card 4: 4. The Persona Anchor
+- Don't just say 'Act as a marketer.' Say 'Act as a Senior Growth Lead with 15 yea...
+
+Card 5: 5. Few-Shot Demonstration
+- Provide 3 examples of perfect output. The model's pattern-matching capabilities ...
+
+Card 6: 6. Negative Constraints
+- Explicitly list what NOT to include. 'Avoid buzzwords, don't summarize the intro...
+
+Card 7: 7. Temperature Control
+- Understand that for reasoning, you want low temperature (0.1-0.3). For creativit...
+
+Card 8: 8. Chain-of-Verification
+- Ask the AI to list the facts it used, then verify each fact individually before ...
 
 VISUAL HIERARCHY:
-Title (Large) -> Subtitle (Medium) -> Cards (Grid) -> 'Follow ByteBuilders' (Margin)
+1. Bold Title
+2. Sub-Header
+3. High-Density Card Grid
+4. Gray 'Follow ByteBuilders' side-margin label
 
-COLORS: White (#FFFFFF), Blue (#2563EB), Dark Gray (#374151)
-GOAL: Educational Save-Trigger
+COLORS: White background, #2563EB Blue circles, #374151 Dark Gray text
+AVOID: Clutter, stock photos, loud gradients.
