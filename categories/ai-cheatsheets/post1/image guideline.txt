@@ -1,4 +1,4 @@
-Title: The Ultimate Claude 3.5 Sonnet Cheatsheet
+Title: The Claude 3.5 Sonnet Technical Masterclass
 Subtitle: High-Density Syntax Guide for AI Power Users
 Theme: Editorial Minimalist
 Layout: Cheat Sheet (High Density)
@@ -13,10 +13,10 @@ Section 4: The 10 Forbidden Buzzwords
 Section 5: API Settings (Temp 0.2 for Logic, 0.8 for Writing)
 
 VISUAL HIERARCHY:
-1. Large Title at the top.
-2. 5 Main Columns/Sections with Blue #2563EB headers.
-3. Content in Dark Gray #374151.
-4. "Follow ByteBuilders" label integrated vertically in the middle-left margin.
+1. Large Editorial Title at the top center.
+2. 5 Defined Sections with Blue #2563EB headers.
+3. Content in Dark Gray #374151 using premium Sans Serif typography.
+4. "Follow ByteBuilders" label integrated into the middle-right margin divider.
 
-GOAL: The "Save-to-Profile" Trigger. High information density that makes the user feel they MUST save it to remember it all.
-AVOID: Empty space, large icons, stock images, or bright colors.
+GOAL: The "Save-to-Profile" Trigger. High information density on a white textured background.
+AVOID: Stock people, clutter, gradients, or low-contrast text.

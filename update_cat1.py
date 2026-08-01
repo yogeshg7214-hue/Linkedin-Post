@@ -1,4 +1,11 @@
-I spent 100 hours testing Claude 3.5 Sonnet so you don't have to.
+import os
+
+cat = "ai-cheatsheets"
+path = f"categories/{cat}/post1"
+os.makedirs(path, exist_ok=True)
+
+# 1. VIRAL POST CONTENT (Master Resource Pattern)
+content = """I spent 100 hours testing Claude 3.5 Sonnet so you don't have to.
 
 Most people treat Claude like a faster version of ChatGPT. That is their first mistake.
 The architecture is fundamentally different. If you aren't using XML-based syntax, you are leaving 50% of the model's intelligence on the table.
@@ -67,4 +74,36 @@ If you found this useful and want more AI resources, tutorials, prompts, and wor
 
 https://bytebuilders.beehiiv.com/subscribe
 
-Follow ByteBuilders
+Follow ByteBuilders"""
+
+# 2. VIRAL IMAGE GUIDELINE (Cheat Sheet Pattern)
+image_guideline = """Title: The Claude 3.5 Sonnet Technical Masterclass
+Subtitle: High-Density Syntax Guide for AI Power Users
+Theme: Editorial Minimalist
+Layout: Cheat Sheet (High Density)
+Aspect Ratio: 4:5 (1080x1350)
+
+ON-IMAGE CONTENT:
+Header: Claude 3.5 Sonnet Master Cheatsheet
+Section 1: The XML Hierarchy (<context>, <data>, <instructions>)
+Section 2: The Thinking Block (Force CoT reasoning)
+Section 3: Artifacts Trigger (React, Mermaid, SVG patterns)
+Section 4: The 10 Forbidden Buzzwords
+Section 5: API Settings (Temp 0.2 for Logic, 0.8 for Writing)
+
+VISUAL HIERARCHY:
+1. Large Editorial Title at the top center.
+2. 5 Defined Sections with Blue #2563EB headers.
+3. Content in Dark Gray #374151 using premium Sans Serif typography.
+4. "Follow ByteBuilders" label integrated into the middle-right margin divider.
+
+GOAL: The "Save-to-Profile" Trigger. High information density on a white textured background.
+AVOID: Stock people, clutter, gradients, or low-contrast text."""
+
+with open(f"{path}/content.txt", "w") as f:
+    f.write(content)
+
+with open(f"{path}/image guideline.txt", "w") as f:
+    f.write(image_guideline)
+
+print("Category 1 Refined.")
